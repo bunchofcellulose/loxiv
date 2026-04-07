@@ -1,0 +1,71 @@
+name: "2025 IOL"
+location: "Taipei, Taiwan"
+link: "https://iol2025.ioling.org/"
+problemsLink: "https://ioling.org/past-exam-papers/"
+
+papers:
+  - examDuration: 360
+    gradingScheme: "/competitions/iol/2025/iol-2025-individual_solutions.pdf"
+
+  - category: "Individual Contest"
+    link: "/competitions/iol/2025/iol-2025.pdf"
+    solutionLink: "/competitions/iol/2025/iol-2025-individual_solutions.pdf"
+
+  #- category: "Team Contest"
+   # link: "/competitions/iol/2025/iol-2025-T.pdf"
+   # solutionLink: "/competitions/iol/2025/iol-2025-T_solutions.pdf"
+
+problems:
+  - id: "iol-2025-1"
+    number: "1"
+    name: "Dzongkha"
+    category: "Individual"
+    author: "Vlad A. Neacșu"
+    maxScore: 20
+    link: "/competitions/iol/2025/iol-2025-1.pdf"
+    solutionLink: "/competitions/iol/2025/iol-2025-1_solution.pdf"
+
+  - id: "iol-2025-2"
+    number: "2"
+    name: "Gaahmg"
+    category: "Individual"
+    author: "David Hultman"
+    maxScore: 20
+    link: "/competitions/iol/2025/iol-2025-2.pdf"
+    solutionLink: "/competitions/iol/2025/iol-2025-2_solution.pdf"
+
+  - id: "iol-2025-3"
+    number: "3"
+    name: "Kuria"
+    category: "Individual"
+    author: "Eimear McKnight"
+    maxScore: 20
+    link: "/competitions/iol/2025/iol-2025-3.pdf"
+    solutionLink: "/competitions/iol/2025/iol-2025-3_solution.pdf"
+
+  - id: "iol-2025-4"
+    number: "4"
+    name: "Kewa"
+    category: "Individual"
+    author: "Samuel Ahmed"
+    maxScore: 20
+    link: "/competitions/iol/2025/iol-2025-4.pdf"
+    solutionLink: "/competitions/iol/2025/iol-2025-4_solution.pdf"
+
+  - id: "iol-2025-5"
+    number: "5"
+    name: "Kaqchikel"
+    category: "Individual"
+    author: "Dan-Mircea Mirea"
+    maxScore: 20
+    link: "/competitions/iol/2025/iol-2025-5.pdf"
+    solutionLink: "/competitions/iol/2025/iol-2025-5_solution.pdf"
+
+  #- id: "iol-2025-team"
+  #  number: "T"
+   # name: "Camling and Bantawa"
+   # category: "Team"
+    #author: "Samuel Ahmed"
+  #  maxScore: 100
+   # link: "/competitions/iol/2025/iol-2025-T.pdf"
+  #  solutionLink: "/competitions/iol/2025/iol-2025-T_solutions.pdf"

@@ -1,0 +1,10 @@
+id: naclo
+name: North American Computational Linguistics Olympiad
+shortName: NACLO
+website: "https://naclo.org/"
+summary: Regional olympiad across North America focused on computational linguistics puzzles.
+icon: "🌎"
+tag: Regional
+url: "https://naclo.org/"
+desc: |
+  The North American Computational Linguistics Olympiad (NACLO) is a regional competition for students in the United States and Canada. It features linguistics and computation-inspired problems that reward logical reasoning over memorization.

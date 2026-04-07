@@ -1,0 +1,43 @@
+name: 2023 APLO
+link: https://aplo.asia/results/aplo-2023-results/
+problemsLink: https://aplo.asia/problems-by-year/
+papers:
+- examDuration: 300
+  link: /competitions/aplo/2023/aplo-2023.pdf
+  solutionLink: /competitions/aplo/2023/aplo-2023_sol.pdf
+problems:
+- id: aplo-2023-1
+  number: '1'
+  name: Yimas
+  author: Vlad A. Neacșu, Tamila Krashtan
+  maxScore: 20
+  link: /competitions/aplo/2023/aplo-2023-1.pdf
+  solutionLink: /competitions/aplo/2023/aplo-2023-1_sol.pdf
+- id: aplo-2023-2
+  number: '2'
+  name: Ktunaxa
+  author: Jerome Jochems
+  maxScore: 20
+  link: /competitions/aplo/2023/aplo-2023-2.pdf
+  solutionLink: /competitions/aplo/2023/aplo-2023-2_sol.pdf
+- id: aplo-2023-3
+  number: '3'
+  name: Kobon
+  author: Vlad A. Neacșu, Michał Boroń
+  maxScore: 20
+  link: /competitions/aplo/2023/aplo-2023-3.pdf
+  solutionLink: /competitions/aplo/2023/aplo-2023-3_sol.pdf
+- id: aplo-2023-4
+  number: '4'
+  name: Inanwatan
+  author: Kazune Sato
+  maxScore: 20
+  link: /competitions/aplo/2023/aplo-2023-4.pdf
+  solutionLink: /competitions/aplo/2023/aplo-2023-4_sol.pdf
+- id: aplo-2023-5
+  number: '5'
+  name: 'Kombai '
+  author: ' Farhan Ishraq, Jerome Jochems (consultant: Lourens de Vries)'
+  maxScore: 20
+  link: /competitions/aplo/2023/aplo-2023-5.pdf
+  solutionLink: /competitions/aplo/2023/aplo-2023-5_sol.pdf

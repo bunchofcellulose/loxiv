@@ -1,0 +1,50 @@
+name: 2021 UKLO
+location: In-person
+link: https://www.uklo.org/
+problemsLink: https://www.uklo.org/past-exam-papers/"
+papers:
+- examDuration: 180
+- category: Round 2
+  link: /pdfs/2021_problems_r2.pdf
+  solutionLink: /pdfs/2021_solutions_r2.pdf
+problems:
+- id: uklo-2021-1
+  number: '1'
+  name: Kakawin
+  category: Round 2
+  author: Michael Salter
+  maxScore: 15
+  link: /competitions/uklo/2021/uklo-2021-1.pdf
+  solutionLink: /competitions/uklo/2021/uklo-2021-1_sol.pdf
+- id: uklo-2021-2
+  number: '2'
+  name: Hawu and Dhao
+  category: Round 2
+  author: Evan Hochstein
+  maxScore: 20
+  link: /competitions/uklo/2021/uklo-2021-2.pdf
+  solutionLink: /competitions/uklo/2021/uklo-2021-2_sol.pdf
+- id: uklo-2021-3
+  number: '3'
+  name: Ainu
+  category: Round 2
+  author: Vlad Neacsu
+  maxScore: 20
+  link: /competitions/uklo/2021/uklo-2021-3.pdf
+  solutionLink: /competitions/uklo/2021/uklo-2021-3_sol.pdf
+- id: uklo-2021-4
+  number: '4'
+  name: Hmong
+  category: Round 2
+  author: Simi Hellsten
+  maxScore: 25
+  link: /competitions/uklo/2021/uklo-2021-4.pdf
+  solutionLink: /competitions/uklo/2021/uklo-2021-4_sol.pdf
+- id: uklo-2021-5
+  number: '5'
+  name: Tawala
+  category: Round 2
+  author: Simi Hellsten
+  maxScore: 30
+  link: /competitions/uklo/2021/uklo-2021-5.pdf
+  solutionLink: /competitions/uklo/2021/uklo-2021-5_sol.pdf

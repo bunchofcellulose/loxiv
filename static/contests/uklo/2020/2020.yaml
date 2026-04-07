@@ -1,0 +1,50 @@
+name: 2020 UKLO
+location: In-person
+link: https://www.uklo.org/
+problemsLink: https://www.uklo.org/past-exam-papers/"
+papers:
+- examDuration: 180
+- category: Round 2
+  link: /pdfs/2020_problems_r2.pdf
+  solutionLink: /pdfs/2020_solutions_r2.pdf
+problems:
+- id: uklo-2020-1
+  number: '1'
+  name: Taiwan Paiwan
+  category: Round 2
+  author: Sam Ahmed
+  maxScore: 20
+  link: /competitions/uklo/2020/uklo-2020-1.pdf
+  solutionLink: /competitions/uklo/2020/uklo-2020-1_sol.pdf
+- id: uklo-2020-2
+  number: '2'
+  name: Yoruba
+  category: Round 2
+  author: Harold Somers
+  maxScore: 20
+  link: /competitions/uklo/2020/uklo-2020-2.pdf
+  solutionLink: /competitions/uklo/2020/uklo-2020-2_sol.pdf
+- id: uklo-2020-3
+  number: '3'
+  name: A toad’s miao
+  category: Round 2
+  author: Ethan Chi
+  maxScore: 20
+  link: /competitions/uklo/2020/uklo-2020-3.pdf
+  solutionLink: /competitions/uklo/2020/uklo-2020-3_sol.pdf
+- id: uklo-2020-4
+  number: '4'
+  name: Utterly Ute
+  category: Round 2
+  author: Eimear McKnight
+  maxScore: 20
+  link: /competitions/uklo/2020/uklo-2020-4.pdf
+  solutionLink: /competitions/uklo/2020/uklo-2020-4_sol.pdf
+- id: uklo-2020-5
+  number: '5'
+  name: Arapaho nouns
+  category: Round 2
+  author: Daniel Lovsted
+  maxScore: 20
+  link: /competitions/uklo/2020/uklo-2020-5.pdf
+  solutionLink: /competitions/uklo/2020/uklo-2020-5_sol.pdf

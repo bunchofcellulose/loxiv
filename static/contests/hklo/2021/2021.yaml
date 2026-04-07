@@ -1,0 +1,30 @@
+name: 2021 HKLO
+location: Hong Kong
+link: https://www.polyu.edu.hk/fh/study/hklo/
+problemsLink: https://www.polyu.edu.hk/fh/study/hklo/
+papers:
+- examDuration: 240
+  link: /competitions/hklo/2021/hklo-2021.pdf
+  solutionLink: /competitions/hklo/2021/hklo-2021_sol.pdf
+problems:
+- id: hklo-2021-1
+  number: '1'
+  name: Finnish-Estonian
+  author: Vlad A. Neacșu
+  maxScore: 30
+  link: /competitions/hklo/2021/hklo-2021-1.pdf
+  solutionLink: /competitions/hklo/2021/hklo-2021-1_sol.pdf
+- id: hklo-2021-2
+  number: '2'
+  name: Hungarian
+  author: Gábor Parti
+  maxScore: 30
+  link: /competitions/hklo/2021/hklo-2021-2.pdf
+  solutionLink: /competitions/hklo/2021/hklo-2021-2_sol.pdf
+- id: hklo-2021-3
+  number: '3'
+  name: Tundra Nenets
+  author: Vlad A. Neacșu
+  maxScore: 30
+  link: /competitions/hklo/2021/hklo-2021-3.pdf
+  solutionLink: /competitions/hklo/2021/hklo-2021-3_sol.pdf

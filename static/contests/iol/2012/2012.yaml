@@ -1,0 +1,71 @@
+name: "2012 IOL"
+location: "Ljubljana, Slovenia"
+link: "https://iol10.ff.uni-lj.si/"
+problemsLink: "https://ioling.org/problems/2012/"
+
+papers:
+  - examDuration: 360
+    gradingScheme: "/competitions/iol/2012/iol-2012-individual_solutions.pdf"
+
+  - category: "Individual Contest"
+    link: "/competitions/iol/2012/iol-2012.pdf"
+    solutionLink: "/competitions/iol/2012/iol-2012-individual_solutions.pdf"
+
+  #- category: "Team Contest"
+  #  link: "/competitions/iol/2012/iol-2012-T.pdf"
+  #  solutionLink: "/competitions/iol/2012/iol-2012-T_solutions.pdf"
+
+problems:
+  - id: "iol-2012-1"
+    number: "1"
+    name: "Dyirbal"
+    category: "Individual"
+    author: "Arturs Semenuks"
+    maxScore: 20
+    link: "/competitions/iol/2012/iol-2012-1.pdf"
+    solutionLink: "/competitions/iol/2012/iol-2012-1_solution.pdf"
+
+  - id: "iol-2012-2"
+    number: "2"
+    name: "Umbu-Ungu"
+    category: "Individual"
+    author: "Ksenia Gilyarova"
+    maxScore: 20
+    link: "/competitions/iol/2012/iol-2012-2.pdf"
+    solutionLink: "/competitions/iol/2012/iol-2012-2_solution.pdf"
+
+  - id: "iol-2012-3"
+    number: "3"
+    name: "Basque"
+    category: "Individual"
+    author: "Natalya Zaika"
+    maxScore: 20
+    link: "/competitions/iol/2012/iol-2012-3.pdf"
+    solutionLink: "/competitions/iol/2012/iol-2012-3_solution.pdf"
+
+  - id: "iol-2012-4"
+    number: "4"
+    name: "Teop"
+    category: "Individual"
+    author: "Maria Konoshenko"
+    maxScore: 20
+    link: "/competitions/iol/2012/iol-2012-4.pdf"
+    solutionLink: "/competitions/iol/2012/iol-2012-4_solution.pdf"
+
+  - id: "iol-2012-5"
+    number: "5"
+    name: "Rotuman"
+    category: "Individual"
+    author: "Boris Iomdin, Alexander Piperski"
+    maxScore: 20
+    link: "/competitions/iol/2012/iol-2012-5.pdf"
+    solutionLink: "/competitions/iol/2012/iol-2012-5_solution.pdf"
+
+  #- id: "iol-2012-team"
+  #  number: "T"
+  #  name: "Lao"
+  #  category: "Team"
+  #  author: "Boris Iomdin"
+  #  maxScore: 100
+  #  link: "/competitions/iol/2012/iol-2012-T.pdf"
+  #  solutionLink: "/competitions/iol/2012/iol-2012-T_solutions.pdf"

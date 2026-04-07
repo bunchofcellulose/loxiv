@@ -1,0 +1,57 @@
+name: 'PLO 2020'
+
+papers:
+  - examDuration: 180
+
+problems:
+  - number: 1
+    id: 'plo-2020-1'
+    name: 'Estonian Word Forms'
+    author: 'Antara Bhattacharya, Aparna Gupte'
+    maxScore: 15
+    link: '/competitions/plo/2020/plo-2020-1.pdf'
+    solutionLink: '/competitions/plo/2020/plo-2020-1_sol.pdf'
+  - number: 2
+    id: 'plo-2020-2'
+    name: 'Stressed Manobo'
+    author: 'Saujas Vaduguru'
+    maxScore: 15
+    link: '/competitions/plo/2020/plo-2020-2.pdf'
+    solutionLink: '/competitions/plo/2020/plo-2020-2_sol.pdf'
+  - number: 3
+    id: 'plo-2020-3'
+    name: 'Tenji Braille'
+    author: 'Apoorva Bhagwat, Sandipan Dandapat'
+    maxScore: 15
+    link: '/competitions/plo/2020/plo-2020-3.pdf'
+    solutionLink: '/competitions/plo/2020/plo-2020-3_sol.pdf'
+  - number: 4
+    id: 'plo-2020-4j'
+    name: 'Kunimaipa'
+    category: 'Junior'
+    author: 'Zarana Sarda'
+    maxScore: 15
+    link: '/competitions/plo/2020/plo-2020-4j.pdf'
+    solutionLink: '/competitions/plo/2020/plo-2020-4j_sol.pdf'
+  - number: 5
+    id: 'plo-2020-5'
+    name: 'Bahinemo'
+    author: 'Aparna Gupte'
+    maxScore: 20
+    link: '/competitions/plo/2020/plo-2020-5.pdf'
+    solutionLink: '/competitions/plo/2020/plo-2020-5_sol.pdf'
+  - number: 6
+    id: 'plo-2020-6s'
+    name: 'Twisted Translations'
+    category: 'Senior'
+    author: 'Saujas Vaduguru'
+    maxScore: 20
+    link: '/competitions/plo/2020/plo-2020-6s.pdf'
+    solutionLink: '/competitions/plo/2020/plo-2020-6s_sol.pdf'
+  - number: 6
+    id: 'plo-2020-6'
+    name: 'Altai-ed Up'
+    author: 'Aparna Gupte'
+    maxScore: 20
+    link: '/competitions/plo/2020/plo-2020-6.pdf'
+    solutionLink: '/competitions/plo/2020/plo-2020-6_sol.pdf'

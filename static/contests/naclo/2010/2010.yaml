@@ -1,0 +1,140 @@
+name: NACLO 2010
+
+papers:
+  - category: Round 1
+    link: /competitions/naclo/2010/paper_r1.pdf
+    solutionLink: /competitions/naclo/2010/solution_r1.pdf
+    examDuration: 180
+  - category: Round 2
+    link: /competitions/naclo/2010/paper_r2.pdf
+    examDuration: 240
+problems:
+  - number: A
+    id: naclo-2010-a
+    name: Gelda's House of Gelbelgarg
+    category: Round 1
+    author: Patrick Littell
+    maxScore: 10
+    link: /competitions/naclo/2010/naclo-2010-a.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-a_sol.pdf
+  - number: B
+    id: naclo-2010-b
+    name: Say It in Abma
+    category: Round 1
+    author: Cindy Schneider
+    maxScore: 5
+    link: /competitions/naclo/2010/naclo-2010-b.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-b_sol.pdf
+  - number: C
+    id: naclo-2010-c
+    name: Lost in Yerevan
+    category: Round 1
+    author: Dragomir R. Radev
+    maxScore: 15
+    link: /competitions/naclo/2010/naclo-2010-c.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-c_sol.pdf
+  - number: D
+    id: naclo-2010-d
+    name: Huevos y Pimientos
+    category: Round 1
+    author: Dragomir R. Radev
+    maxScore: 10
+    link: /competitions/naclo/2010/naclo-2010-d.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-d_sol.pdf
+  - number: E
+    id: naclo-2010-e
+    name: Texting, Texting, One Two Three
+    category: Round 1
+    author: Patrick Littell
+    maxScore: 25
+    link: /competitions/naclo/2010/naclo-2010-e.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-e_sol.pdf
+  - number: F
+    id: naclo-2010-f
+    name: Türkış Delıt
+    category: Round 1
+    author: Bozhidar Bozhanov
+    maxScore: 15
+    link: /competitions/naclo/2010/naclo-2010-f.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-f_sol.pdf
+  - number: G
+    id: naclo-2010-g
+    name: Tangkhul Tangle
+    category: Round 1
+    author: David Mortensen
+    maxScore: 20
+    link: /competitions/naclo/2010/naclo-2010-g.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-g_sol.pdf
+  - number: H
+    id: naclo-2010-h
+    name: Ardhay Uzzlepay
+    category: Round 2
+    author: John Henderson
+    maxScore: 10
+    link: /competitions/naclo/2010/naclo-2010-h.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-h_sol.pdf
+  - number: I
+    id: naclo-2010-i
+    name: Dogs and cats on trees
+    category: Round 2
+    author: Emily Bender
+    maxScore: 5
+    link: /competitions/naclo/2010/naclo-2010-i.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-i_sol.pdf
+  - number: J
+    id: naclo-2010-j
+    name: Plains Cree
+    category: Round 2
+    author: Patrick Littell, Julia Workman
+    maxScore: 10
+    link: /competitions/naclo/2010/naclo-2010-j.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-j_sol.pdf
+  - number: K
+    id: naclo-2010-k
+    name: F u cn rd ths
+    category: Round 2
+    author: Richard Sproat
+    maxScore: 10
+    link: /competitions/naclo/2010/naclo-2010-k.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-k_sol.pdf
+  - number: L
+    id: naclo-2010-l
+    name: Real Money
+    category: Round 2
+    author: Patrick Littell
+    maxScore: 15
+    link: /competitions/naclo/2010/naclo-2010-l.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-l_sol.pdf
+  - number: M
+    id: naclo-2010-m
+    name: No smoke without fire
+    category: Round 2
+    author: Aleka Blackwell
+    maxScore: 10
+    link: /competitions/naclo/2010/naclo-2010-m.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-m_sol.pdf
+  - number: 'N'
+    id: naclo-2010-n
+    name: Tale of Kieu
+    category: Round 2
+    author: David Mortensen, Patrick Littell
+    maxScore: 15
+    link: /competitions/naclo/2010/naclo-2010-n.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-n_sol.pdf
+  - number: O
+    id: naclo-2010-o
+    name: Possessed in Vanuatu
+    category: Round 2
+    author: Jane Simpson, University of Sydney, Jeremy Hammond, Max Planck Institute
+      for Psycholinguistics
+    maxScore: 15
+    link: /competitions/naclo/2010/naclo-2010-o.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-o_sol.pdf
+  - number: P
+    id: naclo-2010-p
+    name: Khipu
+    category: Round 2
+    author: Patrick Littell, Erin Donnelly
+    maxScore: 10
+    link: /competitions/naclo/2010/naclo-2010-p.pdf
+    solutionLink: /competitions/naclo/2010/naclo-2010-p_sol.pdf

@@ -1,0 +1,71 @@
+name: "2023 IOL"
+location: "Bansko, Bulgaria"
+link: "https://ioling.org/2023/"
+problemsLink: "https://ioling.org/problems/2023/"
+
+papers:
+  - examDuration: 360
+    gradingScheme: "/competitions/iol/2023/iol-2023-individual_solutions.pdf"
+
+  - category: "Individual Contest"
+    link: "/competitions/iol/2023/iol-2023.pdf"
+    solutionLink: "/competitions/iol/2023/iol-2023-individual_solutions.pdf"
+
+  #- category: "Team Contest"
+  #  link: "/competitions/iol/2023/iol-2023-T.pdf"
+  #  solutionLink: "/competitions/iol/2023/iol-2023-T_solutions.pdf"
+
+problems:
+  - id: "iol-2023-1"
+    number: "1"
+    name: "Guazacapán Xinka"
+    category: "Individual"
+    author: "Samuel Ahmed"
+    maxScore: 20
+    link: "/competitions/iol/2023/iol-2023-1.pdf"
+    solutionLink: "/competitions/iol/2023/iol-2023-1_solution.pdf"
+
+  - id: "iol-2023-2"
+    number: "2"
+    name: "Apurinã"
+    category: "Individual"
+    author: "Ksenia Gilyarova"
+    maxScore: 20
+    link: "/competitions/iol/2023/iol-2023-2.pdf"
+    solutionLink: "/competitions/iol/2023/iol-2023-2_solution.pdf"
+
+  - id: "iol-2023-3"
+    number: "3"
+    name: "Coastal Marind"
+    category: "Individual"
+    author: "David Hultman (Consultant: Bruno Olsson)"
+    maxScore: 20
+    link: "/competitions/iol/2023/iol-2023-3.pdf"
+    solutionLink: "/competitions/iol/2023/iol-2023-3_solution.pdf"
+
+  - id: "iol-2023-4"
+    number: "4"
+    name: "Plains Cree"
+    category: "Individual"
+    author: "Lidija Stanovnik, Aleksejs Peguševs"
+    maxScore: 20
+    link: "/competitions/iol/2023/iol-2023-4.pdf"
+    solutionLink: "/competitions/iol/2023/iol-2023-4_solution.pdf"
+
+  - id: "iol-2023-5"
+    number: "5"
+    name: "Supyire"
+    category: "Individual"
+    author: "Aleksejs Peguševs"
+    maxScore: 20
+    link: "/competitions/iol/2023/iol-2023-5.pdf"
+    solutionLink: "/competitions/iol/2023/iol-2023-5_solution.pdf"
+
+  #- id: "iol-2023-team"
+  #  number: "T"
+  #  name: "Murrinh-patha"
+  #  category: "Team"
+  #  author: "Boris Iomdin, Milena Veneva"
+  #  maxScore: 100
+  #  link: "/competitions/iol/2023/iol-2023-T.pdf"
+  #  solutionLink: "/competitions/iol/2023/iol-2023-T_solutions.pdf"

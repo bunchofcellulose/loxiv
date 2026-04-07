@@ -1,0 +1,50 @@
+name: 2019 UKLO
+location: In-person
+link: https://www.uklo.org/
+problemsLink: https://archives.uklo.org/problems-2019
+papers:
+- examDuration: 180
+- category: Round 2
+  link: /pdfs/2019_problems_r2.pdf
+  solutionLink: /pdfs/2019_solutions_r2.pdf
+problems:
+- id: uklo-2019-1
+  number: '1'
+  name: The Afrihili word machine
+  category: Round 2
+  author: Michael Salter
+  maxScore: 10
+  link: /competitions/uklo/2019/uklo-2019-1.pdf
+  solutionLink: /competitions/uklo/2019/uklo-2019-1_sol.pdf
+- id: uklo-2019-2
+  number: '2'
+  name: Two Róngs Don’t Make a Right
+  category: Round 2
+  author: Ethan Chi
+  maxScore: 10
+  link: /competitions/uklo/2019/uklo-2019-2.pdf
+  solutionLink: /competitions/uklo/2019/uklo-2019-2_sol.pdf
+- id: uklo-2019-3
+  number: '3'
+  name: Polish your Polish!
+  category: Round 2
+  author: Ms Veneva
+  maxScore: 10
+  link: /competitions/uklo/2019/uklo-2019-3.pdf
+  solutionLink: /competitions/uklo/2019/uklo-2019-3_sol.pdf
+- id: uklo-2019-4
+  number: '4'
+  name: Cupeño
+  category: Round 2
+  author: Daniel Lovsted
+  maxScore: 10
+  link: /competitions/uklo/2019/uklo-2019-4.pdf
+  solutionLink: /competitions/uklo/2019/uklo-2019-4_sol.pdf
+- id: uklo-2019-5
+  number: '5'
+  name: Witsuwit’en
+  category: Round 2
+  author: Daniel Lovsted, Sam Ahmed, Ellie Warner
+  maxScore: 10
+  link: /competitions/uklo/2019/uklo-2019-5.pdf
+  solutionLink: /competitions/uklo/2019/uklo-2019-5_sol.pdf

@@ -1,0 +1,71 @@
+name: "2024 IOL"
+location: "Brasília, Brazil"
+link: "https://iol2024.org/"
+problemsLink: "https://ioling.org/problems/2024/"
+
+papers:
+  - examDuration: 360
+    gradingScheme: "/competitions/iol/2024/iol-2024-individual_solutions.pdf"
+
+  - category: "Individual Contest"
+    link: "/competitions/iol/2024/iol-2024.pdf"
+    solutionLink: "/competitions/iol/2024/iol-2024-individual_solutions.pdf"
+
+  #- category: "Team Contest"
+  #  link: "/competitions/iol/2024/iol-2024-T.pdf"
+  #  solutionLink: "/competitions/iol/2024/iol-2024-T_solutions.pdf"
+
+problems:
+  - id: "iol-2024-1"
+    number: "1"
+    name: "Koryak"
+    category: "Individual"
+    author: "Ivan Derzhanski"
+    maxScore: 20
+    link: "/competitions/iol/2024/iol-2024-1.pdf"
+    solutionLink: "/competitions/iol/2024/iol-2024-1_solution.pdf"
+
+  - id: "iol-2024-2"
+    number: "2"
+    name: "Hadza"
+    category: "Individual"
+    author: "Samuel Ahmed"
+    maxScore: 20
+    link: "/competitions/iol/2024/iol-2024-2.pdf"
+    solutionLink: "/competitions/iol/2024/iol-2024-2_solution.pdf"
+
+  - id: "iol-2024-3"
+    number: "3"
+    name: "Komnzo"
+    category: "Individual"
+    author: "Aida Davletova"
+    maxScore: 20
+    link: "/competitions/iol/2024/iol-2024-3.pdf"
+    solutionLink: "/competitions/iol/2024/iol-2024-3_solution.pdf"
+
+  - id: "iol-2024-4"
+    number: "4"
+    name: "Dâw"
+    category: "Individual"
+    author: "João Henrique Oliveira Fontes (consultant: Karolin Obert)"
+    maxScore: 20
+    link: "/competitions/iol/2024/iol-2024-4.pdf"
+    solutionLink: "/competitions/iol/2024/iol-2024-4_solution.pdf"
+
+  - id: "iol-2024-5"
+    number: "5"
+    name: "Yanyuwa"
+    category: "Individual"
+    author: "Dan-Mircea Mirea (consultant: John Bradley)"
+    maxScore: 20
+    link: "/competitions/iol/2024/iol-2024-5.pdf"
+    solutionLink: "/competitions/iol/2024/iol-2024-5_solution.pdf"
+
+  #- id: "iol-2024-team"
+  #  number: "T"
+  #  name: "Lexicostatistics"
+  #  category: "Team"
+  #  author: "Andrey Nikulin, Milena Veneva"
+  #  maxScore: 100
+  #  link: "/competitions/iol/2024/iol-2024-T.pdf"
+  #  solutionLink: "/competitions/iol/2024/iol-2024-T_solution.pdf"

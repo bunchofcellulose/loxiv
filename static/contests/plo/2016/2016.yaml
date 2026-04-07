@@ -1,0 +1,48 @@
+name: 'PLO 2016'
+
+papers:
+  - examDuration: 180
+
+problems:
+  - number: 1
+    id: 'plo-2016-1'
+    name: 'Sanskrit Months'
+    author: 'Monojit Choudhury'
+    maxScore: 15
+    link: '/competitions/plo/2016/plo-2016-1.pdf'
+    solutionLink: '/competitions/plo/2016/plo-2016-1_sol.pdf'
+  - number: 2
+    id: 'plo-2016-2'
+    name: 'Aksara Sunda Kuna'
+    author: 'Saujas Vaduguru'
+    maxScore: 15
+    link: '/competitions/plo/2016/plo-2016-2.pdf'
+    solutionLink: '/competitions/plo/2016/plo-2016-2_sol.pdf'
+  - number: 3
+    id: 'plo-2016-3'
+    name: 'Luganda'
+    author: 'Abhishek Dedhe'
+    maxScore: 15
+    link: '/competitions/plo/2016/plo-2016-3.pdf'
+    solutionLink: '/competitions/plo/2016/plo-2016-3_sol.pdf'
+  - number: 4
+    id: 'plo-2016-4'
+    name: 'Divehi Numerals'
+    author: 'Sesh Sadasivam'
+    maxScore: 15
+    link: '/competitions/plo/2016/plo-2016-4.pdf'
+    solutionLink: '/competitions/plo/2016/plo-2016-4_sol.pdf'
+  - number: 5
+    id: 'plo-2016-5'
+    name: 'Onge'
+    author: 'Aalok Sathe'
+    maxScore: 20
+    link: '/competitions/plo/2016/plo-2016-5.pdf'
+    solutionLink: '/competitions/plo/2016/plo-2016-5_sol.pdf'
+  - number: 6
+    id: 'plo-2016-6'
+    name: 'Epic Greek Poetry'
+    author: 'Sesh Sadasivam'
+    maxScore: 20
+    link: '/competitions/plo/2016/plo-2016-6.pdf'
+    solutionLink: '/competitions/plo/2016/plo-2016-6_sol.pdf'

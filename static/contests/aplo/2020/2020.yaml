@@ -1,0 +1,43 @@
+name: 2020 APLO
+link: https://aplo.asia/results/aplo-2020-results/
+problemsLink: https://aplo.asia/problems-by-year/
+papers:
+- examDuration: 300
+  link: /competitions/aplo/2020/aplo-2020.pdf
+  solutionLink: /competitions/aplo/2020/aplo-2020_sol.pdf
+problems:
+- id: aplo-2020-1
+  number: '1'
+  name: Iaai
+  author: Rujul Gandhi
+  maxScore: 20
+  link: /competitions/aplo/2020/aplo-2020-1.pdf
+  solutionLink: /competitions/aplo/2020/aplo-2020-1_sol.pdf
+- id: aplo-2020-2
+  number: '2'
+  name: Walman
+  author: Samuel Ahmed
+  maxScore: 20
+  link: /competitions/aplo/2020/aplo-2020-2.pdf
+  solutionLink: /competitions/aplo/2020/aplo-2020-2_sol.pdf
+- id: aplo-2020-3
+  number: '3'
+  name: Koyra Chiini
+  author: Jaeyeong Yang
+  maxScore: 20
+  link: /competitions/aplo/2020/aplo-2020-3.pdf
+  solutionLink: /competitions/aplo/2020/aplo-2020-3_sol.pdf
+- id: aplo-2020-4
+  number: '4'
+  name: Tübatulabal
+  author: Rujul Gandhi, Shardul Chiplunkar
+  maxScore: 20
+  link: /competitions/aplo/2020/aplo-2020-4.pdf
+  solutionLink: /competitions/aplo/2020/aplo-2020-4_sol.pdf
+- id: aplo-2020-5
+  number: '5'
+  name: Mantauran
+  author: Yung-Jui Yao
+  maxScore: 20
+  link: /competitions/aplo/2020/aplo-2020-5.pdf
+  solutionLink: /competitions/aplo/2020/aplo-2020-5_sol.pdf

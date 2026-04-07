@@ -1,0 +1,45 @@
+name: 2019 HKLO
+location: Hong Kong
+link: https://www.polyu.edu.hk/fh/study/hklo/
+problemsLink: https://www.polyu.edu.hk/fh/study/hklo/
+papers:
+- examDuration: 240
+  link: /competitions/hklo/2019/hklo-2019.pdf
+  solutionLink: /competitions/hklo/2019/hklo-2019_sol.pdf
+problems:
+- id: hklo-2019-1
+  number: '1'
+  name: Taiwanese Southern-Min
+  maxScore: 15
+  link: /competitions/hklo/2019/hklo-2019-1.pdf
+  solutionLink: /competitions/hklo/2019/hklo-2019-1_sol.pdf
+- id: hklo-2019-2
+  number: '2'
+  name: Czech
+  maxScore: 15
+  link: /competitions/hklo/2019/hklo-2019-2.pdf
+  solutionLink: /competitions/hklo/2019/hklo-2019-2_sol.pdf
+- id: hklo-2019-3
+  number: '3'
+  name: Welsh
+  maxScore: 10
+  link: /competitions/hklo/2019/hklo-2019-3.pdf
+  solutionLink: /competitions/hklo/2019/hklo-2019-3_sol.pdf
+- id: hklo-2019-4
+  number: '4'
+  name: Tibetan
+  maxScore: 20
+  link: /competitions/hklo/2019/hklo-2019-4.pdf
+  solutionLink: /competitions/hklo/2019/hklo-2019-4_sol.pdf
+- id: hklo-2019-5
+  number: '5'
+  name: Mongolian
+  maxScore: 20
+  link: /competitions/hklo/2019/hklo-2019-5.pdf
+  solutionLink: /competitions/hklo/2019/hklo-2019-5_sol.pdf
+- id: hklo-2019-6
+  number: '6'
+  name: Skolt Sámi
+  maxScore: 20
+  link: /competitions/hklo/2019/hklo-2019-6.pdf
+  solutionLink: /competitions/hklo/2019/hklo-2019-6_sol.pdf

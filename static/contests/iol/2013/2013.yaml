@@ -1,0 +1,71 @@
+name: "2013 IOL"
+location: "Manchester, United Kingdom"
+link: "https://iol11.manchester.ac.uk/"
+problemsLink: "https://ioling.org/problems/2013/"
+
+papers:
+  - examDuration: 360
+    gradingScheme: "/competitions/iol/2013/iol-2013-individual_solutions.pdf"
+
+  - category: "Individual Contest"
+    link: "/competitions/iol/2013/iol-2013.pdf"
+    solutionLink: "/competitions/iol/2013/iol-2013-individual_solutions.pdf"
+
+  #- category: "Team Contest"
+  #  link: "/competitions/iol/2013/iol-2013-T.pdf"
+  #  solutionLink: "/competitions/iol/2013/iol-2013-T_solutions.pdf"
+
+problems:
+  - id: "iol-2013-1"
+    number: "1"
+    name: "Yidiny"
+    category: "Individual"
+    author: "Bozhidar Bozhanov, Ivan Derzhanski"
+    maxScore: 20
+    link: "/competitions/iol/2013/iol-2013-1.pdf"
+    solutionLink: "/competitions/iol/2013/iol-2013-1_solution.pdf"
+
+  - id: "iol-2013-2"
+    number: "2"
+    name: "Tundra Yukaghir"
+    category: "Individual"
+    author: "Ivan Derzhanski"
+    maxScore: 20
+    link: "/competitions/iol/2013/iol-2013-2.pdf"
+    solutionLink: "/competitions/iol/2013/iol-2013-2_solution.pdf"
+
+  - id: "iol-2013-3"
+    number: "3"
+    name: "Pirahã"
+    category: "Individual"
+    author: "Arturs Semenuks"
+    maxScore: 20
+    link: "/competitions/iol/2013/iol-2013-3.pdf"
+    solutionLink: "/competitions/iol/2013/iol-2013-3_solution.pdf"
+
+  - id: "iol-2013-4"
+    number: "4"
+    name: "Muna"
+    category: "Individual"
+    author: "Ksenia Gilyarova"
+    maxScore: 20
+    link: "/competitions/iol/2013/iol-2013-4.pdf"
+    solutionLink: "/competitions/iol/2013/iol-2013-4_solution.pdf"
+
+  - id: "iol-2013-5"
+    number: "5"
+    name: "Telepathy"
+    category: "Individual"
+    author: "Boris Iomdin"
+    maxScore: 20
+    link: "/competitions/iol/2013/iol-2013-5.pdf"
+    solutionLink: "/competitions/iol/2013/iol-2013-5_solution.pdf"
+
+  #- id: "iol-2013-team"
+  #  number: "T"
+  #  name: "Georgian"
+  #  category: "Team"
+  #  author: "Ivan Derzhanski"
+  #  maxScore: 100
+  #  link: "/competitions/iol/2013/iol-2013-T.pdf"
+  #  solutionLink: "/competitions/iol/2013/iol-2013-T_solutions.pdf"

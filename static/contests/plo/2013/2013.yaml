@@ -1,0 +1,61 @@
+name: 'PLO 2013'
+
+papers:
+  - examDuration: 180
+
+problems:
+  - number: 1
+    id: 'plo-2013-1j'
+    name: 'Hebrew Pronouns Jr.'
+    category: 'Junior'
+    maxScore: 8
+    link: '/competitions/plo/2013/plo-2013-1j.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-1j_sol.pdf'
+  - number: 1
+    id: 'plo-2013-1s'
+    name: 'Hebrew Pronouns Sr.'
+    category: 'Senior'
+    link: '/competitions/plo/2013/plo-2013-1s.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-1s_sol.pdf'
+  - number: 2
+    id: 'plo-2013-2j'
+    name: 'Days in Japanese'
+    category: 'Junior'
+    link: '/competitions/plo/2013/plo-2013-2j.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-2j_sol.pdf'
+  - number: 3
+    id: 'plo-2013-3'
+    name: 'Wear it the Simte style!'
+    link: '/competitions/plo/2013/plo-2013-3.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-3_sol.pdf'
+  - number: 3
+    id: 'plo-2013-3a2'
+    name: 'Akham goes Shopping'
+    link: '/competitions/plo/2013/plo-2013-3a2.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-3a2_sol.pdf'
+  - number: 4
+    id: 'plo-2013-4s'
+    name: 'Tangkhul Adjectives'
+    category: 'Senior'
+    link: '/competitions/plo/2013/plo-2013-4s.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-4s_sol.pdf'
+  - number: 4
+    id: 'plo-2013-4s2'
+    name: "Achui's Family"
+    category: 'Senior'
+    link: '/competitions/plo/2013/plo-2013-4s2.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-4s2_sol.pdf'
+  - number: 5
+    id: 'plo-2013-5j'
+    name: "What's in a Question?"
+    category: 'Junior'
+    maxScore: 20
+    link: '/competitions/plo/2013/plo-2013-5j.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-5j_sol.pdf'
+  - number: 6
+    id: 'plo-2013-6j'
+    name: 'Giggle me this'
+    category: 'Junior'
+    maxScore: 20
+    link: '/competitions/plo/2013/plo-2013-6j.pdf'
+    solutionLink: '/competitions/plo/2013/plo-2013-6j_sol.pdf'

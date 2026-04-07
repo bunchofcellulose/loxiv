@@ -1,0 +1,109 @@
+name: NACLO 2008
+
+papers:
+  - category: Round 1
+    link: /competitions/naclo/2008/paper_r1.pdf
+    solutionLink: /competitions/naclo/2008/solution_r1.pdf
+    examDuration: 180
+  - category: Round 2
+    link: /competitions/naclo/2008/paper_r2.pdf
+    solutionLink: /competitions/naclo/2008/solution_r2.pdf
+    examDuration: 240
+
+problems:
+  - number: A
+    id: naclo-2008-a
+    name: Of monkeys and children
+    category: Round 1
+    author: Ronnie Sim, Thomas Payne
+    maxScore: 10
+    link: /competitions/naclo/2008/naclo-2008-a.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-a_sol.pdf
+  - number: B
+    id: naclo-2008-b
+    name: Springing up baby
+    category: Round 1
+    author: Ankit Srivastava, Emily Bender
+    maxScore: 20
+    link: /competitions/naclo/2008/naclo-2008-b.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-b_sol.pdf
+  - number: C
+    id: naclo-2008-c
+    name: Reach for the top
+    category: Round 1
+    author: Patrick Littell
+    maxScore: 20
+    link: /competitions/naclo/2008/naclo-2008-c.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-c_sol.pdf
+  - number: D
+    id: naclo-2008-d
+    name: Spare the Rod
+    category: Round 1
+    author: Dragomir Radev
+    maxScore: 25
+    link: /competitions/naclo/2008/naclo-2008-d.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-d_sol.pdf
+  - number: E
+    id: naclo-2008-e
+    name: A Fish Story
+    category: Round 1
+    author: Patrick Littell
+    maxScore: 25
+    link: /competitions/naclo/2008/naclo-2008-e.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-e_sol.pdf
+  - number: F
+    id: naclo-2008-f
+    name: Fakepapershelfmaker
+    category: Round 2
+    author: Willie Costello
+    maxScore: 10
+    link: /competitions/naclo/2008/naclo-2008-f.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-f_sol.pdf
+  - number: G
+    id: naclo-2008-g
+    name: Manam, I'm Anam
+    category: Round 2
+    author: Patrick Littell
+    maxScore: 10
+    link: /competitions/naclo/2008/naclo-2008-g.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-g_sol.pdf
+  - number: H
+    id: naclo-2008-h
+    name: Thorny Stems
+    category: Round 2
+    author: Eric Breck
+    maxScore: 10
+    link: /competitions/naclo/2008/naclo-2008-h.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-h_sol.pdf
+  - number: I
+    id: naclo-2008-i
+    name: aw-TOM-uh-tuh
+    category: Round 2
+    author: Patrick Littell
+    maxScore: 15
+    link: /competitions/naclo/2008/naclo-2008-i.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-i_sol.pdf
+  - number: J
+    id: naclo-2008-j
+    name: The Curragh of Kildare
+    category: Round 2
+    author: Todor Tchervenkov
+    maxScore: 20
+    link: /competitions/naclo/2008/naclo-2008-j.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-j_sol.pdf
+  - number: K
+    id: naclo-2008-k
+    name: Tzolk'in
+    category: Round 2
+    author: Patrick Littell, Erin Donnelly
+    maxScore: 15
+    link: /competitions/naclo/2008/naclo-2008-k.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-k_sol.pdf
+  - number: L
+    id: naclo-2008-l
+    name: The Whole Spectrum
+    category: Round 2
+    author: Adam Hesterberg
+    maxScore: 20
+    link: /competitions/naclo/2008/naclo-2008-l.pdf
+    solutionLink: /competitions/naclo/2008/naclo-2008-l_sol.pdf

@@ -1,0 +1,71 @@
+name: "2017 IOL"
+location: "Dublin, Ireland"
+link: "https://iol2017.ioling.org/"
+problemsLink: "https://ioling.org/problems/2017/"
+
+papers:
+  - examDuration: 360
+    gradingScheme: "/competitions/iol/2017/iol-2017-individual_solutions.pdf"
+
+  - category: "Individual Contest"
+    link: "/competitions/iol/2017/iol-2017.pdf"
+    solutionLink: "/competitions/iol/2017/iol-2017-individual_solutions.pdf"
+
+  #- category: "Team Contest"
+  #  link: "/competitions/iol/2017/iol-2017-T.pdf"
+  #  solutionLink: "/competitions/iol/2017/iol-2017-T_solutions.pdf"
+
+problems:
+  - id: "iol-2017-1"
+    number: "1"
+    name: "Birom"
+    category: "Individual"
+    author: "Milena Veneva"
+    maxScore: 20
+    link: "/competitions/iol/2017/iol-2017-1.pdf"
+    solutionLink: "/competitions/iol/2017/iol-2017-1_solution.pdf"
+
+  - id: "iol-2017-2"
+    number: "2"
+    name: "Abui"
+    category: "Individual"
+    author: "Aleksejs Peguševs"
+    maxScore: 20
+    link: "/competitions/iol/2017/iol-2017-2.pdf"
+    solutionLink: "/competitions/iol/2017/iol-2017-2_solution.pdf"
+
+  - id: "iol-2017-3"
+    number: "3"
+    name: "Kimbundu"
+    category: "Individual"
+    author: "Bruno L’Astorina"
+    maxScore: 20
+    link: "/competitions/iol/2017/iol-2017-3.pdf"
+    solutionLink: "/competitions/iol/2017/iol-2017-3_solution.pdf"
+
+  - id: "iol-2017-4"
+    number: "4"
+    name: "Laven"
+    category: "Individual"
+    author: "Tae Hun Lee"
+    maxScore: 20
+    link: "/competitions/iol/2017/iol-2017-4.pdf"
+    solutionLink: "/competitions/iol/2017/iol-2017-4_solution.pdf"
+
+  - id: "iol-2017-5"
+    number: "5"
+    name: "Madak"
+    category: "Individual"
+    author: "Ivan Derzhanski"
+    maxScore: 20
+    link: "/competitions/iol/2017/iol-2017-5.pdf"
+    solutionLink: "/competitions/iol/2017/iol-2017-5_solution.pdf"
+
+  #- id: "iol-2017-team"
+  #  number: "T"
+  #  name: "Indonesian Emoji"
+  #  category: "Team"
+  #  author: "Boris Iomdin"
+  #  maxScore: 100
+  #  link: "/competitions/iol/2017/iol-2017-T.pdf"
+  #  solutionLink: "/competitions/iol/2017/iol-2017-T_solutions.pdf"

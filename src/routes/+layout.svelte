@@ -12,8 +12,7 @@
 
 	const navLinks = [
 		{ url: '/', label: 'home' },
-		{ url: '/resources', label: 'resources' },
-		{ url: '/blog', label: 'blog' }
+		{ url: '/resources', label: 'resources' }
 	];
 </script>
 
@@ -36,7 +35,7 @@
 					href="/"
 					class="justify-self-center text-base font-medium text-foreground hover:text-primary"
 				>
-					phoXiv
+					loXiv
 				</a>
 				<div></div>
 			</nav>

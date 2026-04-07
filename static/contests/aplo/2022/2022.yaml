@@ -1,0 +1,43 @@
+name: 2022 APLO
+link: https://aplo.asia/results/aplo-2022-results/
+problemsLink: https://aplo.asia/problems-by-year/
+papers:
+- examDuration: 300
+  link: /competitions/aplo/2022/aplo-2022.pdf
+  solutionLink: /competitions/aplo/2022/aplo-2022_sol.pdf
+problems:
+- id: aplo-2022-1
+  number: '1'
+  name: Panará
+  author: João Henrique Fontes
+  maxScore: 20
+  link: /competitions/aplo/2022/aplo-2022-1.pdf
+  solutionLink: /competitions/aplo/2022/aplo-2022-1_sol.pdf
+- id: aplo-2022-2
+  number: '2'
+  name: Wayuu
+  author: Vlad A. Neacșu
+  maxScore: 20
+  link: /competitions/aplo/2022/aplo-2022-2.pdf
+  solutionLink: /competitions/aplo/2022/aplo-2022-2_sol.pdf
+- id: aplo-2022-3
+  number: '3'
+  name: Jarawara
+  author: Hoju Cha, Jaeyeong Yang
+  maxScore: 20
+  link: /competitions/aplo/2022/aplo-2022-3.pdf
+  solutionLink: /competitions/aplo/2022/aplo-2022-3_sol.pdf
+- id: aplo-2022-4
+  number: '4'
+  name: Ngkolmpu
+  author: Ji Hun Wang, Minkyu Kim
+  maxScore: 20
+  link: /competitions/aplo/2022/aplo-2022-4.pdf
+  solutionLink: /competitions/aplo/2022/aplo-2022-4_sol.pdf
+- id: aplo-2022-5
+  number: '5'
+  name: Miskito
+  author: 'Chih-Chun Wang, Vlad A. Neacșu (consultant: Elmor Wood)'
+  maxScore: 20
+  link: /competitions/aplo/2022/aplo-2022-5.pdf
+  solutionLink: /competitions/aplo/2022/aplo-2022-5_sol.pdf

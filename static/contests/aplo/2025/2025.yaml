@@ -1,0 +1,43 @@
+name: 2025 APLO
+link: https://aplo.asia/results/aplo-2025-results/
+problemsLink: https://aplo.asia/problems-by-year/
+papers:
+- examDuration: 300
+  link: /competitions/aplo/2025/aplo-2025.pdf
+  solutionLink: /competitions/aplo/2025/aplo-2025_sol.pdf
+problems:
+- id: aplo-2025-1
+  number: '1'
+  name: Misantla Totonac
+  author: Tamila Krashtan
+  maxScore: 20
+  link: /competitions/aplo/2025/aplo-2025-1.pdf
+  solutionLink: /competitions/aplo/2025/aplo-2025-1_sol.pdf
+- id: aplo-2025-2
+  number: '2'
+  name: Looma
+  author: 'Vlad A. Neacșu (consultant: Maria Konoshenko)'
+  maxScore: 20
+  link: /competitions/aplo/2025/aplo-2025-2.pdf
+  solutionLink: /competitions/aplo/2025/aplo-2025-2_sol.pdf
+- id: aplo-2025-3
+  number: '3'
+  name: Tangsa
+  author: Minkyu Kim, Zdravko Ivanov
+  maxScore: 20
+  link: /competitions/aplo/2025/aplo-2025-3.pdf
+  solutionLink: /competitions/aplo/2025/aplo-2025-3_sol.pdf
+- id: aplo-2025-4
+  number: '4'
+  name: Mako
+  author: Arul Kolla
+  maxScore: 20
+  link: /competitions/aplo/2025/aplo-2025-4.pdf
+  solutionLink: /competitions/aplo/2025/aplo-2025-4_sol.pdf
+- id: aplo-2025-5
+  number: '5'
+  name: Khasi
+  author: Jaeyeong Yang
+  maxScore: 20
+  link: /competitions/aplo/2025/aplo-2025-5.pdf
+  solutionLink: /competitions/aplo/2025/aplo-2025-5_sol.pdf

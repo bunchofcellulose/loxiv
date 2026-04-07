@@ -1,0 +1,37 @@
+name: 2020 HKLO
+location: Hong Kong
+link: https://www.polyu.edu.hk/fh/study/hklo/
+problemsLink: https://www.polyu.edu.hk/fh/study/hklo/
+papers:
+- examDuration: 240
+  link: /competitions/hklo/2020/hklo-2020.pdf
+  solutionLink: /competitions/hklo/2020/hklo-2020_sol.pdf
+problems:
+- id: hklo-2020-1
+  number: '1'
+  name: Ainu
+  author: James Britton, Vlad A. Neacșu
+  maxScore: 25
+  link: /competitions/hklo/2020/hklo-2020-1.pdf
+  solutionLink: /competitions/hklo/2020/hklo-2020-1_sol.pdf
+- id: hklo-2020-2
+  number: '2'
+  name: Arabic and Hebrew
+  author: Gábor Parti
+  maxScore: 25
+  link: /competitions/hklo/2020/hklo-2020-2.pdf
+  solutionLink: /competitions/hklo/2020/hklo-2020-2_sol.pdf
+- id: hklo-2020-3
+  number: '3'
+  name: Kazakh occupations
+  author: Anran Nason Cao
+  maxScore: 25
+  link: /competitions/hklo/2020/hklo-2020-3.pdf
+  solutionLink: /competitions/hklo/2020/hklo-2020-3_sol.pdf
+- id: hklo-2020-4
+  number: '4'
+  name: Thai
+  author: Pengye Yang, Tung-Le Pan
+  maxScore: 25
+  link: /competitions/hklo/2020/hklo-2020-4.pdf
+  solutionLink: /competitions/hklo/2020/hklo-2020-4_sol.pdf

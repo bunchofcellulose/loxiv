@@ -1,0 +1,45 @@
+name: 2018 UKLO
+location: In-person
+link: https://www.uklo.org/
+problemsLink: https://archives.uklo.org/problems-2018
+papers:
+- examDuration: 180
+- category: Round 2
+  link: /pdfs/2018_problems_r2.pdf
+  solutionLink: /pdfs/2018_solutions_r2.pdf
+problems:
+- id: uklo-2018-1
+  number: '1'
+  name: Hark the Heraldry Angels Sing
+  category: Round 2
+  author: Sam Ahmed
+  link: /competitions/uklo/2018/uklo-2018-1.pdf
+  solutionLink: /competitions/uklo/2018/uklo-2018-1_sol.pdf
+- id: uklo-2018-2
+  number: '2'
+  name: Nivkh
+  category: Round 2
+  author: Heather Newell
+  link: /competitions/uklo/2018/uklo-2018-2.pdf
+  solutionLink: /competitions/uklo/2018/uklo-2018-2_sol.pdf
+- id: uklo-2018-3
+  number: '3'
+  name: Menya
+  category: Round 2
+  author: Aleka Blackwell
+  link: /competitions/uklo/2018/uklo-2018-3.pdf
+  solutionLink: /competitions/uklo/2018/uklo-2018-3_sol.pdf
+- id: uklo-2018-4
+  number: '4'
+  name: 'It’s true: The truth about Chalcatongo Mixtec'
+  category: Round 2
+  author: Babette Verhoeven
+  link: /competitions/uklo/2018/uklo-2018-4.pdf
+  solutionLink: /competitions/uklo/2018/uklo-2018-4_sol.pdf
+- id: uklo-2018-5
+  number: '5'
+  name: Mayangna
+  category: Round 2
+  author: Julia Barron
+  link: /competitions/uklo/2018/uklo-2018-5.pdf
+  solutionLink: /competitions/uklo/2018/uklo-2018-5_sol.pdf
