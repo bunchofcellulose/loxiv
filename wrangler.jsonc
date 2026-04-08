@@ -9,7 +9,9 @@
 	"workers_dev": true,
 	"preview_urls": true,
 	"compatibility_date": "2025-09-27",
-	"compatibility_flags": ["nodejs_als"],
+	"compatibility_flags": [
+		"nodejs_als"
+	],
 	"assets": {
 		"binding": "ASSETS",
 		"directory": ".svelte-kit/cloudflare"
@@ -27,6 +29,11 @@
 			"database_name": "loxiv",
 			"database_id": "5e7e03d7-377c-4962-abdc-92af4c49b4cb",
 			"migrations_dir": "./src/lib/server/db/migrations"
+		},
+		{
+			"binding": "loxiv",
+			"database_name": "loxiv",
+			"database_id": "39343d7f-0b48-49b0-bb03-0a5edccafaab"
 		}
 	]
 	/**
