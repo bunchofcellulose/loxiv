@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "phoxiv",
+	"name": "loxiv",
 	"main": ".svelte-kit/cloudflare/_worker.js",
 	"workers_dev": true,
 	"preview_urls": true,
@@ -18,13 +18,13 @@
 		"enabled": true
 	},
 	"route": {
-		"pattern": "phoxiv.org",
+		"pattern": "loxiv.org",
 		"custom_domain": true
 	},
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "phoxiv",
+			"database_name": "loxiv",
 			"database_id": "5e7e03d7-377c-4962-abdc-92af4c49b4cb",
 			"migrations_dir": "./src/lib/server/db/migrations"
 		}

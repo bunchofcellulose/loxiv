@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "phoxiv",
+      "name": "loxiv",
       "dependencies": {
         "@fontsource-variable/jetbrains-mono": "^5.2.8",
         "@sveltejs/adapter-cloudflare": "^7.2.8",
