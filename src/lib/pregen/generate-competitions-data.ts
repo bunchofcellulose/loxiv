@@ -274,7 +274,7 @@ function loadCompetition(compDir: string): Competition {
   };
 }
 
-const DATA_ROOT = path.resolve('./static/contests');
+const DATA_ROOT = path.resolve('./static/competitions');
 
 export const competitions: Competition[] = fs
   .readdirSync(DATA_ROOT, { withFileTypes: true })
