@@ -19,10 +19,10 @@
 	"observability": {
 		"enabled": true
 	},
-	"route": {
-		"pattern": "loxiv.org",
-		"custom_domain": true
-	},
+	// "route": {
+	// 	"pattern": "loxiv.org",
+	// 	"custom_domain": true
+	// },
 	"d1_databases": [
 		{
 			"binding": "DB",
