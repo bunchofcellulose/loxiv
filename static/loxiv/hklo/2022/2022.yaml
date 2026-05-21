@@ -1,0 +1,37 @@
+name: 2022 HKLO
+location: Hong Kong
+link: https://www.polyu.edu.hk/fh/study/hklo/
+# problemsLink: https://www.polyu.edu.hk/fh/study/hklo/
+papers:
+  - examDuration: 240
+    link: /loxiv/hklo/2022/hklo-2022.pdf
+    solutionLink: /loxiv/hklo/2022/hklo-2022_sol.pdf
+problems:
+  - id: hklo-2022-1
+    number: "1"
+    name: Barupu
+    author: Gustavo Palote
+    maxScore: 25
+    link: /loxiv/hklo/2022/hklo-2022-1.pdf
+    solutionLink: /loxiv/hklo/2022/hklo-2022-1_sol.pdf
+  - id: hklo-2022-2
+    number: "2"
+    name: Solresol
+    author: Vlad A. Neacșu
+    maxScore: 25
+    link: /loxiv/hklo/2022/hklo-2022-2.pdf
+    solutionLink: /loxiv/hklo/2022/hklo-2022-2_sol.pdf
+  - id: hklo-2022-3
+    number: "3"
+    name: Arabic Dialects
+    author: Tung-Le Pan
+    maxScore: 25
+    link: /loxiv/hklo/2022/hklo-2022-3.pdf
+    solutionLink: /loxiv/hklo/2022/hklo-2022-3_sol.pdf
+  - id: hklo-2022-4
+    number: "4"
+    name: Lutos
+    author: Vlad A. Neacșu
+    maxScore: 25
+    link: /loxiv/hklo/2022/hklo-2022-4.pdf
+    solutionLink: /loxiv/hklo/2022/hklo-2022-4_sol.pdf

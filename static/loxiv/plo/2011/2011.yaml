@@ -1,0 +1,41 @@
+name: "PLO 2011"
+
+papers:
+  - examDuration: 180
+
+problems:
+  - number: 1
+    id: "plo-2011-1"
+    name: "The Norwegian Family"
+    author: "Yu. Kuznetsova"
+    maxScore: 5
+    link: "/loxiv/plo/2011/plo-2011-1.pdf"
+    solutionLink: "/loxiv/plo/2011/plo-2011-1_sol.pdf"
+  - number: 2
+    id: "plo-2011-2"
+    name: "Viet Nam"
+    author: "A. Somin"
+    maxScore: 10
+    link: "/loxiv/plo/2011/plo-2011-2.pdf"
+    solutionLink: "/loxiv/plo/2011/plo-2011-2_sol.pdf"
+  - number: 3
+    id: "plo-2011-3"
+    name: "Bariai Squares"
+    author: "Dmitry Gerasimov"
+    maxScore: 20
+    link: "/loxiv/plo/2011/plo-2011-3.pdf"
+    solutionLink: "/loxiv/plo/2011/plo-2011-3_sol.pdf"
+  - number: 4
+    id: "plo-2011-4"
+    name: "Tiwa's sentences"
+    author: "Peter Arkadiev"
+    maxScore: 25
+    link: "/loxiv/plo/2011/plo-2011-4.pdf"
+    solutionLink: "/loxiv/plo/2011/plo-2011-4_sol.pdf"
+  - number: 6
+    id: "plo-2011-6"
+    name: "Cheesy Malagasy"
+    author: "A. Kretov"
+    maxScore: 25
+    link: "/loxiv/plo/2011/plo-2011-6.pdf"
+    solutionLink: "/loxiv/plo/2011/plo-2011-6_sol.pdf"

@@ -1,0 +1,157 @@
+name: NACLO 2017
+
+papers:
+  - category: Round 1
+    link: /loxiv/naclo/2017/paper_r1.pdf
+    solutionLink: /loxiv/naclo/2017/solution_r1.pdf
+    examDuration: 180
+  - category: Round 2
+    link: /loxiv/naclo/2017/paper_r2.pdf
+    solutionLink: /loxiv/naclo/2017/solution_r2.pdf
+    examDuration: 240
+
+problems:
+  - number: A
+    id: naclo-2017-a
+    name: A Little Tshiluba
+    category: Round 1
+    author: Tom McCoy
+    maxScore: 5
+    link: /loxiv/naclo/2017/naclo-2017-a.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-a_sol.pdf
+  - number: B
+    id: naclo-2017-b
+    name: Pho Bar
+    category: Round 1
+    author: James Hyett
+    maxScore: 15
+    link: /loxiv/naclo/2017/naclo-2017-b.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-b_sol.pdf
+  - number: C
+    id: naclo-2017-c
+    name: LOLWUT
+    category: Round 1
+    author: Jordan Ho, Patrick Littell, Tom McCoy
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-c.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-c_sol.pdf
+  - number: D
+    id: naclo-2017-d
+    name: Let's Roll!
+    category: Round 1
+    author: Deryle Lonsdale
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-d.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-d_sol.pdf
+  - number: E
+    id: naclo-2017-e
+    name: On the Right Track
+    category: Round 1
+    author: Kai Low Rui Hao
+    maxScore: 20
+    link: /loxiv/naclo/2017/naclo-2017-e.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-e_sol.pdf
+  - number: F
+    id: naclo-2017-f
+    name: Transition(al) Numbers
+    category: Round 1
+    author: Harold Somers
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-f.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-f_sol.pdf
+  - number: G
+    id: naclo-2017-g
+    name: Magik Yup’ik
+    category: Round 1
+    author: Kai Low Rui Hao
+    maxScore: 15
+    link: /loxiv/naclo/2017/naclo-2017-g.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-g_sol.pdf
+  - number: H
+    id: naclo-2017-h
+    name: Nothing but (Net)works
+    category: Round 1
+    author: Tom McCoy
+    maxScore: 15
+    link: /loxiv/naclo/2017/naclo-2017-h.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-h_sol.pdf
+  - number: I
+    id: naclo-2017-i
+    name: Basque Tasque
+    category: Round 2
+    author: Aleka Blackwell
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-i.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-i_sol.pdf
+  - number: J
+    id: naclo-2017-j
+    name: "The Norwegian Problem / A Norwegian Problem / Norwegian Problems / The Norwegian Problems?"
+    category: Round 2
+    author: Babette Newsome
+    maxScore: 5
+    link: /loxiv/naclo/2017/naclo-2017-j.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-j_sol.pdf
+  - number: K
+    id: naclo-2017-k
+    name: Sentences that go on and on and on and on
+    category: Round 2
+    author: Jonathan Kummerfeld
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-k.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-k_sol.pdf
+  - number: L
+    id: naclo-2017-l
+    name: The Goat, the Mother, and the Wardrobe
+    category: Round 2
+    author: Samuel Andersson, Oliver Sayeed, Elysia Warner
+    maxScore: 15
+    link: /loxiv/naclo/2017/naclo-2017-l.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-l_sol.pdf
+  - number: M
+    id: naclo-2017-m
+    name: It will be you who solves this problem!
+    category: Round 2
+    author: Aleka Blackwell
+    maxScore: 5
+    link: /loxiv/naclo/2017/naclo-2017-m.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-m_sol.pdf
+  - number: "N"
+    id: naclo-2017-n
+    name: To Be Determined
+    category: Round 2
+    author: Kai Low Rui Hao
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-n.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-n_sol.pdf
+  - number: O
+    id: naclo-2017-o
+    name: Common Sense
+    category: Round 2
+    author: Jordan Ho
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-o.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-o_sol.pdf
+  - number: P
+    id: naclo-2017-p
+    name: Do you see what I see?
+    category: Round 2
+    author: Heather Newell
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-p.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-p_sol.pdf
+  - number: Q
+    id: naclo-2017-q
+    name: Pluses and Minuses
+    category: Round 2
+    author: Milena Veneva
+    maxScore: 15
+    link: /loxiv/naclo/2017/naclo-2017-q.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-q_sol.pdf
+  - number: R
+    id: naclo-2017-r
+    name: Text-o-matic
+    category: Round 2
+    author: Daniel Lovsted
+    maxScore: 10
+    link: /loxiv/naclo/2017/naclo-2017-r.pdf
+    solutionLink: /loxiv/naclo/2017/naclo-2017-r_sol.pdf

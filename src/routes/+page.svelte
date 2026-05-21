@@ -1,43 +1,13 @@
 <script lang="ts">
 	import SvelteSeo from 'svelte-seo';
+	import { siteConfig } from '$lib/site-config';
 	import HeroSection from './HeroSection.svelte';
-	import ContestList from './ContestList.svelte';
 </script>
 
 <SvelteSeo
-	title="loXiv"
-	description="An archive of problems and solutions from various linguistics olympiads. Includes IOL, NACLO, APLO, UKLO, and many more international, regional, and national competitions."
-	keywords="problems, solutions, olympiad, linguistics, language, iol, naclo, aplo, uklo, computational linguistics"
+	title={siteConfig.seo.homeTitle}
+	description={siteConfig.seo.homeDescription}
+	keywords={siteConfig.seo.homeKeywords}
 />
 
 <HeroSection />
-
-<!-- Contests -->
-<section id="contests" class="mb-4">
-	<div class="mb-4">
-		<h2 class="py-0">Contests</h2>
-		<p class="mb-0 text-sm text-muted-foreground">
-			Click any card to explore problems, solutions &amp; marking schemes.
-		</p>
-	</div>
-	<ContestList />
-</section>
-
-<!-- Contribute CTA -->
-<section class="">
-	<div
-		class="flex flex-col items-start justify-between gap-4 rounded-2xl bg-primary px-6 py-5 sm:flex-row sm:items-center"
-	>
-		<p class="mb-0 text-sm font-medium text-primary-foreground/90">
-			Want to add problems or help maintain the site? Open a PR.
-		</p>
-		<a
-			href="https://github.com/bunchofcellulose/loXiv"
-			target="_blank"
-			rel="noopener noreferrer"
-			class="shrink-0 rounded-lg bg-primary-foreground px-4 py-2 text-sm font-semibold text-primary transition-opacity hover:opacity-90"
-		>
-			Contribute on GitHub →
-		</a>
-	</div>
-</section>

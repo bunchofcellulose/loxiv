@@ -1,0 +1,37 @@
+name: 2024 HKLO
+location: Hong Kong
+link: https://www.polyu.edu.hk/fh/study/hklo/
+# problemsLink: https://www.polyu.edu.hk/fh/study/hklo/
+papers:
+  - examDuration: 240
+    link: /loxiv/hklo/2024/hklo-2024.pdf
+    solutionLink: /loxiv/hklo/2024/hklo-2024_sol.pdf
+problems:
+  - id: hklo-2024-1
+    number: "1"
+    name: Tiene
+    author: Simi Hellsten
+    maxScore: 25
+    link: /loxiv/hklo/2024/hklo-2024-1.pdf
+    solutionLink: /loxiv/hklo/2024/hklo-2024-1_sol.pdf
+  - id: hklo-2024-2
+    number: "2"
+    name: Outuan Hmong
+    author: Pan Tung-Le
+    maxScore: 25
+    link: /loxiv/hklo/2024/hklo-2024-2.pdf
+    solutionLink: /loxiv/hklo/2024/hklo-2024-2_sol.pdf
+  - id: hklo-2024-3
+    number: "3"
+    name: Tlingit
+    author: Pratyush Vempati
+    maxScore: 25
+    link: /loxiv/hklo/2024/hklo-2024-3.pdf
+    solutionLink: /loxiv/hklo/2024/hklo-2024-3_sol.pdf
+  - id: hklo-2024-4
+    number: "4"
+    name: Paunaka
+    author: Kazune Sato, Vlad A. Neacșu
+    maxScore: 25
+    link: /loxiv/hklo/2024/hklo-2024-4.pdf
+    solutionLink: /loxiv/hklo/2024/hklo-2024-4_sol.pdf

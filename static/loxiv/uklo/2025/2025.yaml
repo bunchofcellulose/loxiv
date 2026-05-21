@@ -1,0 +1,50 @@
+name: 2025 UKLO
+location: In-person
+link: https://www.uklo.org/
+# problemsLink: https://www.uklo.org/past-exam-papers/"
+papers:
+  - examDuration: 180
+  - category: Round 2
+    link: /loxiv/uklo/2025_problems_R2.pdf
+    solutionLink: /loxiv/uklo/2025_solutions_R2.pdf
+problems:
+  - id: uklo-2025-1
+    number: "1"
+    name: Nancowry
+    category: Round 2
+    author: Arul Kolla
+    maxScore: 15
+    link: /loxiv/uklo/2025/uklo-2025-1.pdf
+    solutionLink: /loxiv/uklo/2025/uklo-2025-1_sol.pdf
+  - id: uklo-2025-2
+    number: "2"
+    name: Sakata
+    category: Round 2
+    author: David Hellsten
+    maxScore: 20
+    link: /loxiv/uklo/2025/uklo-2025-2.pdf
+    solutionLink: /loxiv/uklo/2025/uklo-2025-2_sol.pdf
+  - id: uklo-2025-3
+    number: "3"
+    name: Kickapoo
+    category: Round 2
+    author: Evan Hochstein, Simi Hellsten
+    maxScore: 20
+    link: /loxiv/uklo/2025/uklo-2025-3.pdf
+    solutionLink: /loxiv/uklo/2025/uklo-2025-3_sol.pdf
+  - id: uklo-2025-4
+    number: "4"
+    name: Nganasan
+    category: Round 2
+    author: Simi Hellsten
+    maxScore: 20
+    link: /loxiv/uklo/2025/uklo-2025-4.pdf
+    solutionLink: /loxiv/uklo/2025/uklo-2025-4_sol.pdf
+  - id: uklo-2025-5
+    number: "5"
+    name: Kavalan
+    category: Round 2
+    author: Ethan Chi
+    maxScore: 25
+    link: /loxiv/uklo/2025/uklo-2025-5.pdf
+    solutionLink: /loxiv/uklo/2025/uklo-2025-5_sol.pdf

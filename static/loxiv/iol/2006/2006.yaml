@@ -1,0 +1,62 @@
+name: "2006 IOL"
+location: "Tartu, Estonia"
+link: "https://ioling.org/2006/"
+# problemsLink: "https://ioling.org/problems/2006/"
+
+papers:
+  - examDuration: 360
+  - category: "Individual Contest"
+    link: "/loxiv/iol/2006/iol-2006.pdf"
+    solutionLink: "/loxiv/iol/2006/iol-2006_sol.pdf"
+  #- category: "Team Contest"
+  #  link: "/loxiv/iol/2006/iol-2006-T.pdf"
+  #  solutionLink: "/loxiv/iol/2006/iol-2006-T_sols.pdf"
+
+problems:
+  - id: "iol-2006-1"
+    number: "1"
+    name: "Lakhota"
+    category: "Individual"
+    author: "Pyotr Arkadiev "
+    maxScore: 20
+    # link: "/loxiv/iol/2006/iol-2006-1.pdf"
+    # solutionLink: "/loxiv/iol/2006/iol-2006-1_sol.pdf"
+  - id: "iol-2006-2"
+    number: "2"
+    name: "Catalan"
+    category: "Individual"
+    author: "Boris Iomdin"
+    maxScore: 20
+    # link: "/loxiv/iol/2006/iol-2006-2.pdf"
+    # solutionLink: "/loxiv/iol/2006/iol-2006-2_sol.pdf"
+  - id: "iol-2006-3"
+    number: "3"
+    name: "Khmer"
+    category: "Individual"
+    author: "Sergey Dmitrenko "
+    maxScore: 20
+    # link: "/loxiv/iol/2006/iol-2006-3.pdf"
+    # solutionLink: "/loxiv/iol/2006/iol-2006-3_sol.pdf"
+  - id: "iol-2006-4"
+    number: "4"
+    name: "Udihe"
+    category: "Individual"
+    author: "Boris Iomdin"
+    maxScore: 20
+    # link: "/loxiv/iol/2006/iol-2006-4.pdf"
+    # solutionLink: "/loxiv/iol/2006/iol-2006-4_sol.pdf"
+  - id: "iol-2006-5"
+    number: "5"
+    name: "Ngoni"
+    category: "Individual"
+    author: "Olga Fyodorova"
+    maxScore: 20
+    # link: "/loxiv/iol/2006/iol-2006-5.pdf"
+    # solutionLink: "/loxiv/iol/2006/iol-2006-5_sol.pdf"
+  #- id: "iol-2006-team"
+  #  number: "T"
+  ##  category: "Team"
+  #  author: "Aleksandr Berditševskij"
+  #  maxScore: 100
+  #  link: "/loxiv/iol/2006/iol-2006-T.pdf"
+  #  solutionLink: "/loxiv/iol/2006/iol-2006-T_sols.pdf"

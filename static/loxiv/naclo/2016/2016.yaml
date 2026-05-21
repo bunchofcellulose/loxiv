@@ -1,0 +1,157 @@
+name: NACLO 2016
+
+papers:
+  - category: Round 1
+    link: /loxiv/naclo/2016/paper_r1.pdf
+    solutionLink: /loxiv/naclo/2016/solution_r1.pdf
+    examDuration: 180
+  - category: Round 2
+    link: /loxiv/naclo/2016/paper_r2.pdf
+    solutionLink: /loxiv/naclo/2016/solution_r2.pdf
+    examDuration: 240
+
+problems:
+  - number: A
+    id: naclo-2016-a
+    name: Tangled up in Nots
+    category: Round 1
+    author: Bozhidar Bozhanov
+    maxScore: 5
+    link: /loxiv/naclo/2016/naclo-2016-a.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-a_sol.pdf
+  - number: B
+    id: naclo-2016-b
+    name: DAWG Breeds
+    category: Round 1
+    author: Patrick Littell
+    maxScore: 10
+    link: /loxiv/naclo/2016/naclo-2016-b.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-b_sol.pdf
+  - number: C
+    id: naclo-2016-c
+    name: The Curious Case of Estonian
+    category: Round 1
+    author: Praveen Venkataramana
+    maxScore: 5
+    link: /loxiv/naclo/2016/naclo-2016-c.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-c_sol.pdf
+  - number: D
+    id: naclo-2016-d
+    name: That's an Order
+    category: Round 1
+    author: Dorottya Demszky, Yiwei Luo, Tom McCoy
+    maxScore: 15
+    link: /loxiv/naclo/2016/naclo-2016-d.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-d_sol.pdf
+  - number: E
+    id: naclo-2016-e
+    name: Be There, or be Squared
+    category: Round 1
+    author: Bill Huang
+    maxScore: 20
+    link: /loxiv/naclo/2016/naclo-2016-e.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-e_sol.pdf
+  - number: F
+    id: naclo-2016-f
+    name: Take one Tablet and Call me in the Morning
+    category: Round 1
+    author: Dorottya Demszky
+    maxScore: 15
+    link: /loxiv/naclo/2016/naclo-2016-f.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-f_sol.pdf
+  - number: G
+    id: naclo-2016-g
+    name: Signs from Above
+    category: Round 1
+    author: James Hyett
+    maxScore: 20
+    link: /loxiv/naclo/2016/naclo-2016-g.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-g_sol.pdf
+  - number: H
+    id: naclo-2016-h
+    name: Fan Fiction
+    category: Round 1
+    author: Ben King
+    maxScore: 10
+    link: /loxiv/naclo/2016/naclo-2016-h.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-h_sol.pdf
+  - number: I
+    id: naclo-2016-i
+    name: Deriving Enjoyment
+    category: Round 2
+    author: Harold Somers, Simona Klemenčič
+    maxScore: 10
+    link: /loxiv/naclo/2016/naclo-2016-i.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-i_sol.pdf
+  - number: J
+    id: naclo-2016-j
+    name: Get Edumacated
+    category: Round 2
+    author: Patrick Littell
+    maxScore: 15
+    link: /loxiv/naclo/2016/naclo-2016-j.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-j_sol.pdf
+  - number: K
+    id: naclo-2016-k
+    name: Kings, Queens, and Counts
+    category: Round 2
+    author: Tom McCoy
+    maxScore: 15
+    link: /loxiv/naclo/2016/naclo-2016-k.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-k_sol.pdf
+  - number: L
+    id: naclo-2016-l
+    name: The Short Hand of the Law
+    category: Round 2
+    author: Dragomir Radev, Patrick Littell
+    maxScore: 10
+    link: /loxiv/naclo/2016/naclo-2016-l.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-l_sol.pdf
+  - number: M
+    id: naclo-2016-m
+    name: Sound Judgments
+    category: Round 2
+    author: Ollie Sayeed
+    maxScore: 5
+    link: /loxiv/naclo/2016/naclo-2016-m.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-m_sol.pdf
+  - number: "N"
+    id: naclo-2016-n
+    name: What Happened at the Chess Tournament?
+    category: Round 2
+    author: Vica Papp
+    maxScore: 5
+    link: /loxiv/naclo/2016/naclo-2016-n.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-n_sol.pdf
+  - number: O
+    id: naclo-2016-o
+    name: Don't Sell the House
+    category: Round 2
+    author: Alex Wade
+    maxScore: 10
+    link: /loxiv/naclo/2016/naclo-2016-o.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-o_sol.pdf
+  - number: P
+    id: naclo-2016-p
+    name: A matter of Horn clauses
+    category: Round 2
+    author: Josh Falk
+    maxScore: 10
+    link: /loxiv/naclo/2016/naclo-2016-p.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-p_sol.pdf
+  - number: Q
+    id: naclo-2016-q
+    name: A cup of Javanese
+    category: Round 2
+    author: Tae Hun Lee
+    maxScore: 15
+    link: /loxiv/naclo/2016/naclo-2016-q.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-q_sol.pdf
+  - number: R
+    id: naclo-2016-r
+    name: Changing the Subject
+    category: Round 2
+    author: Harold Somers
+    maxScore: 5
+    link: /loxiv/naclo/2016/naclo-2016-r.pdf
+    solutionLink: /loxiv/naclo/2016/naclo-2016-r_sol.pdf

@@ -1,0 +1,62 @@
+name: "2004 IOL"
+location: "Moscow, Russia"
+link: "https://ioling.org/2004/"
+# problemsLink: "https://ioling.org/problems/2004/"
+
+papers:
+  - examDuration: 360
+  - category: "Individual Contest"
+    link: "/loxiv/iol/2004/iol-2004.pdf"
+    solutionLink: "/loxiv/iol/2004/iol-2004_sol.pdf"
+  #- category: "Team Contest"
+  # link: "/loxiv/iol/2004/iol-2004-T.pdf"
+  # solutionLink: "/loxiv/iol/2004/iol-2004-T_sols.pdf"
+
+problems:
+  - id: "iol-2004-1"
+    number: "1"
+    name: "Kayapo"
+    category: "Individual"
+    author: "Peter Zubkov"
+    maxScore: 20
+    # link: "/loxiv/iol/2004/iol-2004-1.pdf"
+    # solutionLink: "/loxiv/iol/2004/iol-2004-1_sol.pdf"
+  - id: "iol-2004-2"
+    number: "2"
+    name: "Swift News Agency"
+    category: "Individual"
+    author: "Boris Iomdin"
+    maxScore: 20
+    # link: "/loxiv/iol/2004/iol-2004-2.pdf"
+    # solutionLink: "/loxiv/iol/2004/iol-2004-2_sol.pdf"
+  - id: "iol-2004-3"
+    number: "3"
+    name: "Latin"
+    category: "Individual"
+    author: "Svetlana Burlak"
+    maxScore: 20
+    # link: "/loxiv/iol/2004/iol-2004-3.pdf"
+    # solutionLink: "/loxiv/iol/2004/iol-2004-3_sol.pdf"
+  - id: "iol-2004-4"
+    number: "4"
+    name: "Lakhota"
+    category: "Individual"
+    author: "Ivan Derzhanski"
+    maxScore: 20
+    # link: "/loxiv/iol/2004/iol-2004-4.pdf"
+    # solutionLink: "/loxiv/iol/2004/iol-2004-4_sol.pdf"
+  - id: "iol-2004-5"
+    number: "5"
+    name: "Chuvash"
+    category: "Individual"
+    author: "Boris Iomdin"
+    maxScore: 20
+    # link: "/loxiv/iol/2004/iol-2004-5.pdf"
+    # solutionLink: "/loxiv/iol/2004/iol-2004-5_sol.pdf"
+  #- id: "iol-2004-team"
+  #  number: "T"
+  #  name: "Armenian"
+  ##  category: "Team"
+  ##  maxScore: 100
+  #  link: "/loxiv/iol/2004/iol-2004-T.pdf"
+  #  solutionLink: "/loxiv/iol/2004/iol-2004-T_sols.pdf"

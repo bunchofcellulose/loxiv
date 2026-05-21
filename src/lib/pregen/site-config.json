@@ -1,0 +1,36 @@
+{
+  "name": "loXiv",
+  "pronunciation": "/ ˌloʊ.ˈkaɪv /",
+  "topic": "linguistics olympiads",
+  "githubUrl": "https://github.com/bunchofcellulose/loXiv",
+  "fork": {
+    "text": "This project is a fork of",
+    "label": "phoxiv.org",
+    "url": "https://phoxiv.org"
+  },
+  "hero": {
+    "title": "loXiv",
+    "description": "A comprehensive archive of linguistics olympiads. Ranging from the prestigious IOL to national competitions like UKLO and NACLO, loXiv provides official/translated problem statements and solutions you rarely find elsewhere.",
+    "primaryCtaLabel": "Browse contests",
+    "primaryCtaPath": "/contests",
+    "secondaryCtaLabel": "Contribute"
+  },
+  "seo": {
+    "homeTitle": "loXiv",
+    "homeDescription": "An archive of problems and solutions from various linguistics olympiads. Includes IOL, UKLO, NACLO, and many more international, regional, and national competitions.",
+    "homeKeywords": "problems, solutions, olympiad, linguistics",
+    "contestKeywords": "problems, solutions, olympiad, linguistics"
+  },
+  "navigation": {
+    "links": [
+      {
+        "label": "home",
+        "url": "/"
+      },
+      {
+        "label": "contests",
+        "url": "/contests"
+      }
+    ]
+  }
+}

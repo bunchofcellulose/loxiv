@@ -1,0 +1,326 @@
+name: NACLO 2019
+
+papers:
+  - category: Round 1
+    link: /loxiv/naclo/2019/paper_r1.pdf
+    solutionLink: /loxiv/naclo/2019/solution_r1.pdf
+    examDuration: 180
+    n: ~
+    scores:
+      - [
+          97.068,
+          96.162,
+          95.866,
+          95.636,
+          95.472,
+          94.444,
+          94.12,
+          93.33,
+          93.036,
+          92.103,
+          91.92,
+          91.875,
+          91.069,
+          90.768,
+          90.682,
+          90.517,
+          90.354,
+          88.89,
+          88.726,
+          88.283,
+          87.116,
+          86.655,
+          86.233,
+          86.158,
+          86.053,
+          85.987,
+          85.98,
+          84.826,
+          83.249,
+          81.76,
+          81.544,
+          80.79,
+          80.297,
+          79.532,
+          79.37,
+          78.807,
+          78.186,
+          77.641,
+          77.022,
+          76.94,
+          76.725,
+          76.566,
+          76.431,
+          76.329,
+          75.986,
+          75.724,
+          74.93,
+          74.902,
+          74.745,
+          73.813,
+          73.395,
+          73.386,
+          73.121,
+          73.094,
+          73.035,
+          72.998,
+          72.903,
+          72.808,
+          72.598,
+          72.34,
+          72.199,
+          72.169,
+          71.919,
+          71.67,
+          71.649,
+          71.447,
+          71.286,
+          71.265,
+          71.139,
+          70.215,
+          70.112,
+          70.035,
+          69.986,
+          69.92,
+          69.535,
+          69.526,
+          69.503,
+          69.332,
+          69.019,
+          68.662,
+          68.577,
+          68.311,
+          68.291,
+          68.069,
+          67.886,
+          67.744,
+          67.492,
+          67.108,
+          67.076,
+          66.995,
+          66.907,
+          66.904,
+          66.805,
+          66.794,
+          66.787,
+          66.716,
+          66.571,
+          66.514,
+          66.342,
+          66.093,
+          65.458,
+          65.44,
+          65.404,
+          65.241,
+          65.214,
+          65.119,
+          65.034,
+          65.002,
+          64.935,
+          64.864,
+          64.847,
+          64.834,
+          64.771,
+          64.756,
+          64.736,
+          64.709,
+          64.6,
+          64.532,
+          64.204,
+          63.82,
+          63.75,
+          63.742,
+          63.727,
+          63.544,
+          63.54,
+          63.443,
+          63.416,
+          63.123,
+          62.888,
+          62.787,
+          62.747,
+          62.623,
+          62.347,
+          62.271,
+          62.24,
+          61.654,
+          61.542,
+          61.46,
+          61.43,
+          61.428,
+          61.025,
+          60.891,
+          60.664,
+          60.511,
+          60.476,
+          60.07,
+          60.063,
+          60.029,
+          59.899,
+          59.888,
+          59.805,
+          59.618,
+          59.563,
+          59.517,
+          59.396,
+          59.166,
+          59.023,
+          58.617,
+          54.71,
+          50.862,
+          49.57,
+          49.524,
+          45.261,
+        ]
+    invi: 59.0
+
+  - category: Round 2
+    link: /loxiv/naclo/2019/paper_r2.pdf
+    solutionLink: /loxiv/naclo/2019/solution_r2.pdf
+    examDuration: 240
+
+problems:
+  - number: A
+    id: naclo-2019-a
+    name: Malteaser
+    category: Round 1
+    author: Harold Somers
+    maxScore: 10
+    link: /loxiv/naclo/2019/naclo-2019-a.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-a_sol.pdf
+  - number: B
+    id: naclo-2019-b
+    name: You Speak Ndebele, Don't You?
+    category: Round 1
+    author: Michael Salter
+    maxScore: 15
+    link: /loxiv/naclo/2019/naclo-2019-b.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-b_sol.pdf
+  - number: C
+    id: naclo-2019-c
+    name: Here is One Hand
+    category: Round 1
+    author: Daniel Lovsted
+    maxScore: 20
+    link: /loxiv/naclo/2019/naclo-2019-c.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-c_sol.pdf
+  - number: D
+    id: naclo-2019-d
+    name: Predicate Etiquette
+    category: Round 1
+    author: Daniel Lovsted
+    maxScore: 15
+    link: /loxiv/naclo/2019/naclo-2019-d.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-d_sol.pdf
+  - number: E
+    id: naclo-2019-e
+    name: Hate It or Lopit
+    category: Round 1
+    author: Jonathan Moodie, Rosey Bilington
+    maxScore: 10
+    link: /loxiv/naclo/2019/naclo-2019-e.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-e_sol.pdf
+  - number: F
+    id: naclo-2019-f
+    name: Harmongolia
+    category: Round 1
+    author: Ethan Chi
+    maxScore: 10
+    link: /loxiv/naclo/2019/naclo-2019-f.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-f_sol.pdf
+  - number: G
+    id: naclo-2019-g
+    name: Break it Down!
+    category: Round 1
+    author: Tom McCoy, Sonia Reilly
+    maxScore: 5
+    link: /loxiv/naclo/2019/naclo-2019-g.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-g_sol.pdf
+  - number: H
+    id: naclo-2019-h
+    name: Can you know/Hanunó'o
+    category: Round 1
+    author: Ethan Chi
+    maxScore: 15
+    link: /loxiv/naclo/2019/naclo-2019-h.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-h_sol.pdf
+  - number: I
+    id: naclo-2019-i
+    name: The Afrihili Word Machine
+    category: Round 2
+    author: Michael Salter, Aleka Blackwell
+    maxScore: 5
+    link: /loxiv/naclo/2019/naclo-2019-i.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-i_sol.pdf
+  - number: J
+    id: naclo-2019-j
+    name: Polish These Nouns!
+    category: Round 2
+    author: Milena Veneva
+    maxScore: 10
+    link: /loxiv/naclo/2019/naclo-2019-j.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-j_sol.pdf
+  - number: K
+    id: naclo-2019-k
+    name: Two Róngs Don't Make a Right
+    category: Round 2
+    author: Ethan Chi
+    maxScore: 10
+    link: /loxiv/naclo/2019/naclo-2019-k.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-k_sol.pdf
+  - number: L
+    id: naclo-2019-l
+    name: We Were Born to Solve This Problem
+    category: Round 2
+    author: Daniel Lovsted
+    maxScore: 15
+    link: /loxiv/naclo/2019/naclo-2019-l.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-l_sol.pdf
+  - number: M
+    id: naclo-2019-m
+    name: Colorless Green Concepts Scripting Furiously
+    category: Round 2
+    author: Daniel Lovsted
+    maxScore: 10
+    link: /loxiv/naclo/2019/naclo-2019-m.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-m_sol.pdf
+  - number: "N"
+    id: naclo-2019-n
+    name: Fun With Witsuwit'en
+    category: Round 2
+    author: Daniel Lovsted
+    maxScore: 15
+    link: /loxiv/naclo/2019/naclo-2019-n.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-n_sol.pdf
+  - number: O
+    id: naclo-2019-o
+    name: Infer a Surprise
+    category: Round 2
+    author: Tom McCoy
+    maxScore: 5
+    link: /loxiv/naclo/2019/naclo-2019-o.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-o_sol.pdf
+  - number: P
+    id: naclo-2019-p
+    name: Do You Hear the Master's Moon
+    category: Round 2
+    author: Sam Ahmed
+    maxScore: 15
+    link: /loxiv/naclo/2019/naclo-2019-p.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-p_sol.pdf
+  - number: Q
+    id: naclo-2019-q
+    name: A Tale of Kieu-plets
+    category: Round 2
+    author: Ethan Chi
+    maxScore: 10
+    link: /loxiv/naclo/2019/naclo-2019-q.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-q_sol.pdf
+  - number: R
+    id: naclo-2019-r
+    name: Disambiguate This!
+    category: Round 2
+    author: Ethan Chi
+    maxScore: 5
+    link: /loxiv/naclo/2019/naclo-2019-r.pdf
+    solutionLink: /loxiv/naclo/2019/naclo-2019-r_sol.pdf

@@ -1,0 +1,37 @@
+name: 2025 HKLO
+location: Hong Kong
+link: https://www.polyu.edu.hk/fh/study/hklo/
+# problemsLink: https://www.polyu.edu.hk/fh/study/hklo/
+papers:
+  - examDuration: 240
+    link: /loxiv/hklo/2025/hklo-2025.pdf
+    solutionLink: /loxiv/hklo/2025/hklo-2025_sol.pdf
+problems:
+  - id: hklo-2025-1
+    number: "1"
+    name: Kuchean
+    author: Tam Lok Hang
+    maxScore: 25
+    link: /loxiv/hklo/2025/hklo-2025-1.pdf
+    solutionLink: /loxiv/hklo/2025/hklo-2025-1_sol.pdf
+  - id: hklo-2025-2
+    number: "2"
+    name: Nuxalk
+    author: Faraz Ahmed
+    maxScore: 25
+    link: /loxiv/hklo/2025/hklo-2025-2.pdf
+    solutionLink: /loxiv/hklo/2025/hklo-2025-2_sol.pdf
+  - id: hklo-2025-3
+    number: "3"
+    name: Meyah
+    author: Farhan Ishraq
+    maxScore: 25
+    link: /loxiv/hklo/2025/hklo-2025-3.pdf
+    solutionLink: /loxiv/hklo/2025/hklo-2025-3_sol.pdf
+  - id: hklo-2025-4
+    number: "4"
+    name: Classical Tibetan
+    author: Wong Tok Shing Henry
+    maxScore: 25
+    link: /loxiv/hklo/2025/hklo-2025-4.pdf
+    solutionLink: /loxiv/hklo/2025/hklo-2025-4_sol.pdf

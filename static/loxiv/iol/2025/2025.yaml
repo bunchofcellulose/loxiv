@@ -1,0 +1,70 @@
+name: "2025 IOL"
+location: "Taipei, Taiwan"
+link: "https://iol2025.ioling.org/"
+# problemsLink: "https://ioling.org/past-exam-papers/"
+
+papers:
+  - examDuration: 360
+
+  - category: "Individual Contest"
+    link: "/loxiv/iol/2025/iol-2025.pdf"
+    solutionLink: "/loxiv/iol/2025/iol-2025-sol.pdf"
+
+  #- category: "Team Contest"
+  # link: "/loxiv/iol/2025/iol-2025-T.pdf"
+  # solutionLink: "/loxiv/iol/2025/iol-2025-T_sols.pdf"
+
+problems:
+  - id: "iol-2025-1"
+    number: "1"
+    name: "Dzongkha"
+    category: "Individual"
+    author: "Vlad A. Neacșu"
+    maxScore: 20
+    link: "/loxiv/iol/2025/iol-2025-1.pdf"
+    solutionLink: "/loxiv/iol/2025/iol-2025-1_sol.pdf"
+
+  - id: "iol-2025-2"
+    number: "2"
+    name: "Gaahmg"
+    category: "Individual"
+    author: "David Hultman"
+    maxScore: 20
+    link: "/loxiv/iol/2025/iol-2025-2.pdf"
+    solutionLink: "/loxiv/iol/2025/iol-2025-2_sol.pdf"
+
+  - id: "iol-2025-3"
+    number: "3"
+    name: "Kuria"
+    category: "Individual"
+    author: "Eimear McKnight"
+    maxScore: 20
+    link: "/loxiv/iol/2025/iol-2025-3.pdf"
+    solutionLink: "/loxiv/iol/2025/iol-2025-3_sol.pdf"
+
+  - id: "iol-2025-4"
+    number: "4"
+    name: "Kewa"
+    category: "Individual"
+    author: "Samuel Ahmed"
+    maxScore: 20
+    link: "/loxiv/iol/2025/iol-2025-4.pdf"
+    solutionLink: "/loxiv/iol/2025/iol-2025-4_sol.pdf"
+
+  - id: "iol-2025-5"
+    number: "5"
+    name: "Kaqchikel"
+    category: "Individual"
+    author: "Dan-Mircea Mirea"
+    maxScore: 20
+    link: "/loxiv/iol/2025/iol-2025-5.pdf"
+    solutionLink: "/loxiv/iol/2025/iol-2025-5_sol.pdf"
+
+  #- id: "iol-2025-team"
+  #  number: "T"
+  # name: "Camling and Bantawa"
+  # category: "Team"
+  #author: "Samuel Ahmed"
+  #  maxScore: 100
+  # link: "/loxiv/iol/2025/iol-2025-T.pdf"
+  #  solutionLink: "/loxiv/iol/2025/iol-2025-T_sols.pdf"

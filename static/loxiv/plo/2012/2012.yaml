@@ -1,0 +1,30 @@
+name: "PLO 2012"
+
+papers:
+  - examDuration: 180
+
+problems:
+  - number: 1
+    id: "plo-2012-1"
+    name: "Daily Basque"
+    author: "N. Zaika"
+    maxScore: 20
+    link: "/loxiv/plo/2012/plo-2012-1.pdf"
+  - number: 2
+    id: "plo-2012-2"
+    name: "Bronckhorst Numbers"
+    author: "Svetlana Burlak"
+    maxScore: 20
+    link: "/loxiv/plo/2012/plo-2012-2.pdf"
+  - number: 4
+    id: "plo-2012-4"
+    name: "Coptic Stress"
+    author: "S. Malyshev"
+    maxScore: 15
+    link: "/loxiv/plo/2012/plo-2012-4.pdf"
+  - number: 5
+    id: "plo-2012-5"
+    name: "Not Amharic"
+    author: "Maria Bulakh"
+    maxScore: 15
+    link: "/loxiv/plo/2012/plo-2012-5.pdf"

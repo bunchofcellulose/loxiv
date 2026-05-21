@@ -1,0 +1,69 @@
+name: "2014 IOL"
+location: "Beijing, China"
+link: "https://iol2014.org/"
+# problemsLink: "https://ioling.org/problems/2014/"
+
+papers:
+  - examDuration: 360
+  - category: "Individual Contest"
+    link: "/loxiv/iol/2014/iol-2014.pdf"
+    solutionLink: "/loxiv/iol/2014/iol-2014_sol.pdf"
+
+  #- category: "Team Contest"
+  #  link: "/loxiv/iol/2014/iol-2014-T.pdf"
+  #  solutionLink: "/loxiv/iol/2014/iol-2014-T_sols.pdf"
+
+problems:
+  - id: "iol-2014-1"
+    number: "1"
+    name: "Benabena"
+    category: "Individual"
+    author: "Ivan Derzhanski"
+    maxScore: 20
+    link: "/loxiv/iol/2014/iol-2014-1.pdf"
+    solutionLink: "/loxiv/iol/2014/iol-2014-1_sol.pdf"
+
+  - id: "iol-2014-2"
+    number: "2"
+    name: "Kiowa"
+    category: "Individual"
+    author: "Aleksejs Pegu²evs"
+    maxScore: 20
+    link: "/loxiv/iol/2014/iol-2014-2.pdf"
+    solutionLink: "/loxiv/iol/2014/iol-2014-2_sol.pdf"
+
+  - id: "iol-2014-3"
+    number: "3"
+    name: "Tangut"
+    category: "Individual"
+    author: "Ivan Derzhanski"
+    maxScore: 20
+    link: "/loxiv/iol/2014/iol-2014-3.pdf"
+    solutionLink: "/loxiv/iol/2014/iol-2014-3_sol.pdf"
+
+  - id: "iol-2014-4"
+    number: "4"
+    name: "Engenni"
+    category: "Individual"
+    author: "Artur Semenuks"
+    maxScore: 20
+    link: "/loxiv/iol/2014/iol-2014-4.pdf"
+    solutionLink: "/loxiv/iol/2014/iol-2014-4_sol.pdf"
+
+  - id: "iol-2014-5"
+    number: "5"
+    name: "Gbaya"
+    category: "Individual"
+    author: "Boris Iomdin"
+    maxScore: 20
+    link: "/loxiv/iol/2014/iol-2014-5.pdf"
+    solutionLink: "/loxiv/iol/2014/iol-2014-5_sol.pdf"
+
+  #- id: "iol-2014-team"
+  #  number: "T"
+  #  name: "Armenian"
+  #  category: "Team"
+  #  author: "Boris Iomdin, Ivan Derzhanski"
+  #  maxScore: 100
+  #  link: "/loxiv/iol/2014/iol-2014-T.pdf"
+  #  solutionLink: "/loxiv/iol/2014/iol-2014-T_sols.pdf"

@@ -1,0 +1,69 @@
+name: "2011 IOL"
+location: "Pittsburgh, United States of America"
+link: "https://ioling.org/2011/"
+# problemsLink: "https://ioling.org/problems/2011/"
+
+papers:
+  - examDuration: 360
+  - category: "Individual Contest"
+    link: "/loxiv/iol/2011/iol-2011.pdf"
+    solutionLink: "/loxiv/iol/2011/iol-2011_sol.pdf"
+
+  #- category: "Team Contest"
+  #  link: "/loxiv/iol/2011/iol-2011-T.pdf"
+  #  solutionLink: "/loxiv/iol/2011/iol-2011-T_sols.pdf"
+
+problems:
+  - id: "iol-2011-1"
+    number: "1"
+    name: "Menominee"
+    category: "Individual"
+    author: "Ivan Derzhanski"
+    maxScore: 20
+    link: "/loxiv/iol/2011/iol-2011-1.pdf"
+    solutionLink: "/loxiv/iol/2011/iol-2011-1_sol.pdf"
+
+  - id: "iol-2011-2"
+    number: "2"
+    name: "Faroese"
+    category: "Individual"
+    author: "Alexander Piperski"
+    maxScore: 20
+    link: "/loxiv/iol/2011/iol-2011-2.pdf"
+    solutionLink: "/loxiv/iol/2011/iol-2011-2_sol.pdf"
+
+  - id: "iol-2011-3"
+    number: "3"
+    name: "Vai"
+    category: "Individual"
+    author: "Olga Kuznetsova"
+    maxScore: 20
+    link: "/loxiv/iol/2011/iol-2011-3.pdf"
+    solutionLink: "/loxiv/iol/2011/iol-2011-3_sol.pdf"
+
+  - id: "iol-2011-4"
+    number: "4"
+    name: "Nahuatl"
+    category: "Individual"
+    author: "Liudmila Fedorova"
+    maxScore: 20
+    link: "/loxiv/iol/2011/iol-2011-4.pdf"
+    solutionLink: "/loxiv/iol/2011/iol-2011-4_sol.pdf"
+
+  - id: "iol-2011-5"
+    number: "5"
+    name: "EAN-13"
+    category: "Individual"
+    author: "Hugh Dobbs"
+    maxScore: 20
+    link: "/loxiv/iol/2011/iol-2011-5.pdf"
+    solutionLink: "/loxiv/iol/2011/iol-2011-5_sol.pdf"
+
+  #- id: "iol-2011-team"
+  #  number: "T"
+  #  name: "Sanskrit"
+  #  category: "Team"
+  #  author: "Adam Hesterberg"
+  ##  maxScore: 100
+  # link: "/loxiv/iol/2011/iol-2011-T.pdf"
+  #  solutionLink: "/loxiv/iol/2011/iol-2011-T_sols.pdf"

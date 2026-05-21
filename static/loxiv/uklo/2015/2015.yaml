@@ -1,0 +1,45 @@
+name: 2015 UKLO
+location: In-person
+link: https://www.uklo.org/
+# problemsLink: https://archives.uklo.org/problems-2015
+papers:
+  - examDuration: 180
+  - category: Round 2
+    link: /pdfs/2015_problems_r2.pdf
+    solutionLink: /pdfs/2015_solutions_r2.pdf
+problems:
+  - id: uklo-2015-1
+    number: "1"
+    name: Maxakalí
+    category: Round 2
+    author: Bozhidar Bozhanov
+    link: /loxiv/uklo/2015/uklo-2015-1.pdf
+    solutionLink: /loxiv/uklo/2015/uklo-2015-1_sol.pdf
+  - id: uklo-2015-2
+    number: "2"
+    name: Malagasy Crossnumber
+    category: Round 2
+    author: Ollie Sayeed
+    link: /loxiv/uklo/2015/uklo-2015-2.pdf
+    solutionLink: /loxiv/uklo/2015/uklo-2015-2_sol.pdf
+  - id: uklo-2015-3
+    number: "3"
+    name: Do-This-Do-That in Hmong
+    category: Round 2
+    author: Bill Huang
+    link: /loxiv/uklo/2015/uklo-2015-3.pdf
+    solutionLink: /loxiv/uklo/2015/uklo-2015-3_sol.pdf
+  - id: uklo-2015-4
+    number: "4"
+    name: Aymara rules
+    category: Round 2
+    author: Lauren Gawne
+    link: /loxiv/uklo/2015/uklo-2015-4.pdf
+    solutionLink: /loxiv/uklo/2015/uklo-2015-4_sol.pdf
+  - id: uklo-2015-5
+    number: "5"
+    name: Data and questions
+    category: Round 2
+    author: Patrick Littell
+    link: /loxiv/uklo/2015/uklo-2015-5.pdf
+    solutionLink: /loxiv/uklo/2015/uklo-2015-5_sol.pdf

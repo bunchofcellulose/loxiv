@@ -1,0 +1,45 @@
+name: 2016 UKLO
+location: In-person
+link: https://www.uklo.org/
+# problemsLink: https://archives.uklo.org/problems-2016
+papers:
+  - examDuration: 180
+  - category: Round 2
+    link: /pdfs/2016_problems_r2.pdf
+    solutionLink: /pdfs/2016_solutions_r2.pdf
+problems:
+  - id: uklo-2016-1
+    number: "1"
+    name: Malay
+    category: Round 2
+    author: Bozhidar Bozhanov
+    link: /loxiv/uklo/2016/uklo-2016-1.pdf
+    solutionLink: /loxiv/uklo/2016/uklo-2016-1_sol.pdf
+  - id: uklo-2016-2
+    number: "2"
+    name: Tocharian
+    category: Round 2
+    author: Ollie Sayeed
+    link: /loxiv/uklo/2016/uklo-2016-2.pdf
+    solutionLink: /loxiv/uklo/2016/uklo-2016-2_sol.pdf
+  - id: uklo-2016-3
+    number: "3"
+    name: Huli
+    category: Round 2
+    author: Bill Huang
+    link: /loxiv/uklo/2016/uklo-2016-3.pdf
+    solutionLink: /loxiv/uklo/2016/uklo-2016-3_sol.pdf
+  - id: uklo-2016-4
+    number: "4"
+    name: Devanagari
+    category: Round 2
+    author: Lauren Gawne
+    link: /loxiv/uklo/2016/uklo-2016-4.pdf
+    solutionLink: /loxiv/uklo/2016/uklo-2016-4_sol.pdf
+  - id: uklo-2016-5
+    number: "5"
+    name: Get edumacated!
+    category: Round 2
+    author: Patrick Littell
+    link: /loxiv/uklo/2016/uklo-2016-5.pdf
+    solutionLink: /loxiv/uklo/2016/uklo-2016-5_sol.pdf

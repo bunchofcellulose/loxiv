@@ -1,0 +1,50 @@
+name: 2022 UKLO
+location: In-person
+link: https://www.uklo.org/
+# problemsLink: https://www.uklo.org/past-exam-papers/"
+papers:
+  - examDuration: 180
+  - category: Round 2
+    link: /pdfs/2022_problems_r2.pdf
+    solutionLink: /pdfs/2022_solutions_r2.pdf
+problems:
+  - id: uklo-2022-1
+    number: "1"
+    name: Mapudungun
+    category: Round 2
+    author: Junnosuke Kajita, translated by Kazune Sato
+    maxScore: 15
+    link: /loxiv/uklo/2022/uklo-2022-1.pdf
+    solutionLink: /loxiv/uklo/2022/uklo-2022-1_sol.pdf
+  - id: uklo-2022-2
+    number: "2"
+    name: " Wik-Mungkan"
+    category: Round 2
+    author: Ryan Chi
+    maxScore: 15
+    link: /loxiv/uklo/2022/uklo-2022-2.pdf
+    solutionLink: /loxiv/uklo/2022/uklo-2022-2_sol.pdf
+  - id: uklo-2022-3
+    number: "3"
+    name: Niuean
+    category: Round 2
+    author: Simi Hellsten
+    maxScore: 20
+    link: /loxiv/uklo/2022/uklo-2022-3.pdf
+    solutionLink: /loxiv/uklo/2022/uklo-2022-3_sol.pdf
+  - id: uklo-2022-4
+    number: "4"
+    name: Dinka
+    category: Round 2
+    author: Simi Hellsten
+    maxScore: 25
+    link: /loxiv/uklo/2022/uklo-2022-4.pdf
+    solutionLink: /loxiv/uklo/2022/uklo-2022-4_sol.pdf
+  - id: uklo-2022-5
+    number: "5"
+    name: Taos
+    category: Round 2
+    author: Simi Hellsten
+    maxScore: 25
+    link: /loxiv/uklo/2022/uklo-2022-5.pdf
+    solutionLink: /loxiv/uklo/2022/uklo-2022-5_sol.pdf

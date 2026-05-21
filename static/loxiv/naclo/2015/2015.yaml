@@ -1,0 +1,141 @@
+name: NACLO 2015
+
+papers:
+  - category: Round 1
+    link: /loxiv/naclo/2015/paper_r1.pdf
+    solutionLink: /loxiv/naclo/2015/solution_r1.pdf
+    examDuration: 180
+  - category: Round 2
+    link: /loxiv/naclo/2015/paper_r2.pdf
+    solutionLink: /loxiv/naclo/2015/solution_r2.pdf
+    examDuration: 240
+
+problems:
+  - number: A
+    id: naclo-2015-a
+    name: The Big Dog and the Young Man
+    category: Round 1
+    author: Mike Swan
+    maxScore: 5
+    link: /loxiv/naclo/2015/naclo-2015-a.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-a_sol.pdf
+  - number: B
+    id: naclo-2015-b
+    name: Delphi has the Answers
+    category: Round 1
+    author: Bozhidar Bozhanov
+    maxScore: 10
+    link: /loxiv/naclo/2015/naclo-2015-b.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-b_sol.pdf
+  - number: C
+    id: naclo-2015-c
+    name: Aymara Rules
+    category: Round 1
+    author: Josh Falk
+    maxScore: 10
+    link: /loxiv/naclo/2015/naclo-2015-c.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-c_sol.pdf
+  - number: D
+    id: naclo-2015-d
+    name: Elder Futhark Runes
+    category: Round 1
+    author: Catherine Sheard
+    maxScore: 10
+    link: /loxiv/naclo/2015/naclo-2015-d.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-d_sol.pdf
+  - number: E
+    id: naclo-2015-e
+    name: Use the Force
+    category: Round 1
+    author: Jonathan May
+    maxScore: 15
+    link: /loxiv/naclo/2015/naclo-2015-e.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-e_sol.pdf
+  - number: F
+    id: naclo-2015-f
+    name: My Friend Nomura from Osaka
+    category: Round 1
+    author: Harold Somers
+    maxScore: 15
+    link: /loxiv/naclo/2015/naclo-2015-f.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-f_sol.pdf
+  - number: G
+    id: naclo-2015-g
+    name: Zoink!
+    category: Round 1
+    author: Dragomir Radev, Christiane Fellbaum, Jonathan May
+    maxScore: 15
+    link: /loxiv/naclo/2015/naclo-2015-g.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-g_sol.pdf
+  - number: H
+    id: naclo-2015-h
+    name: Phaasaa and Phaasaa
+    category: Round 1
+    author: Alex Wade
+    maxScore: 20
+    link: /loxiv/naclo/2015/naclo-2015-h.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-h_sol.pdf
+  - number: I
+    id: naclo-2015-i
+    name: Old English
+    category: Round 2
+    author: Graeme Trousdale
+    maxScore: 5
+    link: /loxiv/naclo/2015/naclo-2015-i.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-i_sol.pdf
+  - number: J
+    id: naclo-2015-j
+    name: Georgian Transitive Verbs
+    category: Round 2
+    author: Dorottya Demszky, Adam Hesterberg
+    maxScore: 20
+    link: /loxiv/naclo/2015/naclo-2015-j.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-j_sol.pdf
+  - number: K
+    id: naclo-2015-k
+    name: The Dualization Game
+    category: Round 2
+    author: Daniel Lovsted
+    maxScore: 15
+    link: /loxiv/naclo/2015/naclo-2015-k.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-k_sol.pdf
+  - number: L
+    id: naclo-2015-l
+    name: Easy-Peasy-Malagasy
+    category: Round 2
+    author: Tom McCoy
+    maxScore: 10
+    link: /loxiv/naclo/2015/naclo-2015-l.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-l_sol.pdf
+  - number: M
+    id: naclo-2015-m
+    name: Minimum Spelling Trees
+    category: Round 2
+    author: John de Nero
+    maxScore: 10
+    link: /loxiv/naclo/2015/naclo-2015-m.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-m_sol.pdf
+  - number: "N"
+    id: naclo-2015-n
+    name: Maxakali
+    category: Round 2
+    author: Alexander Wade, Pat Littell
+    maxScore: 15
+    link: /loxiv/naclo/2015/naclo-2015-n.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-n_sol.pdf
+  - number: O
+    id: naclo-2015-o
+    name: Do-This-Do-That
+    category: Round 2
+    author: David Mortensen
+    maxScore: 20
+    link: /loxiv/naclo/2015/naclo-2015-o.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-o_sol.pdf
+  - number: P
+    id: naclo-2015-p
+    name: The Old Man the Boats
+    category: Round 2
+    author: Emily Bender
+    maxScore: 5
+    link: /loxiv/naclo/2015/naclo-2015-p.pdf
+    solutionLink: /loxiv/naclo/2015/naclo-2015-p_sol.pdf

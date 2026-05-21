@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { contests, type ContestTag } from '$lib/competitions';
 	import * as Card from '$lib/components/ui/card/index';
 	import Badge from '$lib/components/ui/badge/badge.svelte';
@@ -31,6 +32,7 @@
 				type="single"
 				value={activeTag ?? ''}
 				onValueChange={(v) => (activeTag = (v as ContestTag) || null)}
+				class="justify-center"
 			>
 				<ToggleGroup.Item value="">All</ToggleGroup.Item>
 				{#each ALL_TAGS as tag (tag)}
@@ -45,7 +47,7 @@
 {#if filtered().length > 0}
 	<div class="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-4">
 		{#each filtered() as contest (contest.id)}
-			<a href={`/contests/${contest.id}`} class="group block">
+			<a href={resolve(`/contests/${contest.id}`)} class="group block">
 				<Card.Root
 					class={cn(
 						'h-full cursor-pointer py-4! transition-all duration-200',
@@ -55,7 +57,15 @@
 					<Card.Content class="flex h-full flex-col gap-3 px-5">
 						<!-- Top row: emoji + badge -->
 						<div class="flex items-start justify-between">
-							<span class="text-4xl leading-none">{contest.icon}</span>
+							{#if contest.icon.startsWith('/')}
+								<img
+									src={contest.icon}
+									alt={`${contest.name} icon`}
+									class="h-10 w-10 object-contain"
+								/>
+							{:else}
+								<span class="text-4xl leading-none">{contest.icon}</span>
+							{/if}
 							<Badge variant="outline">{contest.tag}</Badge>
 						</div>
 
@@ -97,6 +107,9 @@
 		message="No contests found"
 		hint="Try a different search term or clear the filter."
 		clearLabel="Clear filters"
-		onClear={() => { query = ''; activeTag = null; }}
+		onClear={() => {
+			query = '';
+			activeTag = null;
+		}}
 	/>
 {/if}
