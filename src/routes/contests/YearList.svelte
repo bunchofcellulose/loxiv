@@ -27,7 +27,9 @@
 					p.name?.toLowerCase().includes(q) ||
 					p.number?.toLowerCase().includes(q) ||
 					p.author?.toLowerCase().includes(q) ||
-					p.category?.toLowerCase().includes(q)
+					p.category?.toLowerCase().includes(q) ||
+					(p.languages ?? []).some((lang) => lang.toLowerCase().includes(q)) ||
+					(p.tags ?? []).some((tag) => tag.toLowerCase().includes(q))
 			);
 
 			if (yearMatches || locationMatches) {
@@ -54,7 +56,9 @@
 						p.name?.toLowerCase().includes(q) ||
 						p.number?.toLowerCase().includes(q) ||
 						p.author?.toLowerCase().includes(q) ||
-						p.category?.toLowerCase().includes(q)
+						p.category?.toLowerCase().includes(q) ||
+						(p.languages ?? []).some((lang) => lang.toLowerCase().includes(q)) ||
+						(p.tags ?? []).some((tag) => tag.toLowerCase().includes(q))
 				)
 		);
 	});
@@ -315,10 +319,32 @@
 														<span class="text-left text-sm leading-snug font-medium text-foreground"
 															>{problem.name}</span
 														>
+														{#if problem.author}
+															<span class="text-xs text-muted-foreground">by {problem.author}</span>
+														{/if}
 														{#if problem.category}
 															<span class="text-xs font-medium text-primary"
 																>{problem.category}</span
 															>
+														{/if}
+
+														{#if (problem.languages?.length ?? 0) > 0 || (problem.tags?.length ?? 0) > 0}
+															<div class="flex flex-wrap gap-1">
+																{#each problem.languages ?? [] as lang (lang)}
+																	<span
+																		class="rounded-full bg-primary/10 px-2 py-0.5 text-[0.7rem] font-medium text-primary"
+																	>
+																		{lang}
+																	</span>
+																{/each}
+																{#each problem.tags ?? [] as tag (tag)}
+																	<span
+																		class="rounded-full bg-muted px-2 py-0.5 text-[0.7rem] text-muted-foreground"
+																	>
+																		{tag}
+																	</span>
+																{/each}
+															</div>
 														{/if}
 														<div class="flex flex-wrap gap-1.5">
 															{#if problem.link}
@@ -456,10 +482,32 @@
 														<span class="text-left text-sm leading-snug font-medium text-foreground"
 															>{problem.name}</span
 														>
+														{#if problem.author}
+															<span class="text-xs text-muted-foreground">by {problem.author}</span>
+														{/if}
 														{#if problem.category}
 															<span class="text-xs font-medium text-primary"
 																>{problem.category}</span
 															>
+														{/if}
+
+														{#if (problem.languages?.length ?? 0) > 0 || (problem.tags?.length ?? 0) > 0}
+															<div class="flex flex-wrap gap-1">
+																{#each problem.languages ?? [] as lang (lang)}
+																	<span
+																		class="rounded-full bg-primary/10 px-2 py-0.5 text-[0.7rem] font-medium text-primary"
+																	>
+																		{lang}
+																	</span>
+																{/each}
+																{#each problem.tags ?? [] as tag (tag)}
+																	<span
+																		class="rounded-full bg-muted px-2 py-0.5 text-[0.7rem] text-muted-foreground"
+																	>
+																		{tag}
+																	</span>
+																{/each}
+															</div>
 														{/if}
 														<div class="flex flex-wrap gap-1.5">
 															{#if problem.link}

@@ -69,8 +69,20 @@
 		const probNum = item.problem?.number ? String(item.problem.number) : '';
 		const category = item.problem?.category || '';
 		const author = item.problem?.author || '';
+		const languages = item.problem?.languages || [];
+		const tags = item.problem?.tags || [];
 
-		const searchableText = [compName, yearStr, location, probName, probNum, category, author]
+		const searchableText = [
+			compName,
+			yearStr,
+			location,
+			probName,
+			probNum,
+			category,
+			author,
+			...languages,
+			...tags
+		]
 			.join(' ')
 			.toLowerCase();
 
@@ -307,15 +319,38 @@
 													</span>
 												</div>
 
-												{#if item.problem?.author || item.problem?.category}
-													<div
-														class="mt-1 flex flex-wrap items-center gap-2 text-xs text-muted-foreground"
-													>
-														{#if item.problem.category}
-															<span>{item.problem.category}</span>
+												{#if item.problem?.category || item.problem?.author || (item.problem?.languages?.length ?? 0) > 0 || (item.problem?.tags?.length ?? 0) > 0}
+													<div class="mt-1 flex flex-col gap-1">
+														{#if item.problem?.category || item.problem?.author}
+															<div
+																class="flex flex-wrap items-center gap-1.5 text-xs text-muted-foreground"
+															>
+																{#if item.problem.category}
+																	<span>{@html highlightText(item.problem.category, query)}</span>
+																{/if}
+																{#if item.problem.category && item.problem.author}
+																	<span aria-hidden="true">·</span>
+																{/if}
+																{#if item.problem.author}
+																	<span>by {@html highlightText(item.problem.author, query)}</span>
+																{/if}
+															</div>
 														{/if}
-														{#if item.problem.author}
-															<span>by {item.problem.author}</span>
+														{#if (item.problem?.languages?.length ?? 0) > 0 || (item.problem?.tags?.length ?? 0) > 0}
+															<div class="flex flex-wrap items-center gap-1.5">
+																{#each item.problem?.languages ?? [] as lang (lang)}
+																	<span
+																		class="rounded bg-primary/10 px-1.5 py-0.5 text-[0.7rem] font-medium text-primary"
+																		>{@html highlightText(lang, query)}</span
+																	>
+																{/each}
+																{#each item.problem?.tags ?? [] as tag (tag)}
+																	<span
+																		class="rounded bg-muted px-1.5 py-0.5 text-[0.7rem] text-muted-foreground"
+																		>{@html highlightText(tag, query)}</span
+																	>
+																{/each}
+															</div>
 														{/if}
 													</div>
 												{/if}

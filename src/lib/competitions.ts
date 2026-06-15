@@ -6,6 +6,8 @@ export interface Problem {
 	name: string;
 	category?: string | undefined;
 	author?: string | undefined;
+	languages?: string[] | undefined;
+	tags?: string[] | undefined;
 	maxScore?: number | undefined;
 	link?: string | undefined;
 	solutionLink?: string | undefined;
@@ -173,7 +175,9 @@ export function getClientSearchData() {
 						problem.number,
 						problem.name,
 						problem.author ?? '',
-						problem.category ?? ''
+						problem.category ?? '',
+						...(problem.languages ?? []),
+						...(problem.tags ?? [])
 					]
 						.join(' ')
 						.toLowerCase();

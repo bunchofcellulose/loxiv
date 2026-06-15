@@ -2797,6 +2797,13 @@
             "name": "The Horse Before The Cart",
             "category": "Round 1",
             "author": "Devin Joe",
+            "languages": [
+              "Sranan Tongo"
+            ],
+            "tags": [
+              "phonology",
+              "morphology"
+            ],
             "link": "/loxiv/naclo/2026/naclo-2026-a.pdf",
             "solutionLink": "/loxiv/naclo/2026/naclo-2026-a_sol.pdf",
             "maxScore": 10

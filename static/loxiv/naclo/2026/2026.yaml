@@ -273,6 +273,7 @@ problems:
     name: The Horse Before The Cart
     category: Round 1
     author: Devin Joe
+    languages: [Sranan Tongo]
     maxScore: 10
     link: /loxiv/naclo/2026/naclo-2026-a.pdf
     solutionLink: /loxiv/naclo/2026/naclo-2026-a_sol.pdf

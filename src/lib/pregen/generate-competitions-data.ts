@@ -8,6 +8,8 @@ export interface Problem {
 	name: string;
 	category?: string | undefined;
 	author?: string | undefined;
+	languages?: string[] | undefined;
+	tags?: string[] | undefined;
 	maxScore?: number | undefined;
 	link?: string | undefined;
 	solutionLink?: string | undefined;
@@ -86,6 +88,8 @@ interface ProblemYaml {
 	name: string;
 	category?: string;
 	author?: string;
+	languages?: string[] | undefined;
+	tags?: string[] | undefined;
 	link?: string;
 	solutionLink?: string;
 	maxScore?: number;
@@ -219,6 +223,8 @@ function loadCompetition(compDir: string): Competition {
 				name: p.name,
 				category: p.category ?? fallbackCategory,
 				author: p.author,
+				languages: p.languages,
+				tags: p.tags,
 				link: p.link,
 				solutionLink: p.solutionLink,
 				answerSheet: p.answerSheet,
